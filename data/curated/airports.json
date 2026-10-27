@@ -1,0 +1,330 @@
+{
+ "SEA": {
+  "name": "Seattle-Tacoma",
+  "city": "Seattle",
+  "lat": 47.449,
+  "lon": -122.309,
+  "elev": 131,
+  "tz": "America/Los_Angeles"
+ },
+ "PDX": {
+  "name": "Portland International",
+  "city": "Portland",
+  "lat": 45.589,
+  "lon": -122.597,
+  "elev": 9,
+  "tz": "America/Los_Angeles"
+ },
+ "SFO": {
+  "name": "San Francisco International",
+  "city": "San Francisco",
+  "lat": 37.619,
+  "lon": -122.375,
+  "elev": 4,
+  "tz": "America/Los_Angeles"
+ },
+ "OAK": {
+  "name": "Oakland International",
+  "city": "Oakland",
+  "lat": 37.721,
+  "lon": -122.221,
+  "elev": 3,
+  "tz": "America/Los_Angeles"
+ },
+ "SJC": {
+  "name": "San Jose International",
+  "city": "San Jose",
+  "lat": 37.363,
+  "lon": -121.929,
+  "elev": 19,
+  "tz": "America/Los_Angeles"
+ },
+ "LAX": {
+  "name": "Los Angeles International",
+  "city": "Los Angeles",
+  "lat": 33.942,
+  "lon": -118.408,
+  "elev": 38,
+  "tz": "America/Los_Angeles"
+ },
+ "SAN": {
+  "name": "San Diego International",
+  "city": "San Diego",
+  "lat": 32.734,
+  "lon": -117.19,
+  "elev": 5,
+  "tz": "America/Los_Angeles"
+ },
+ "LAS": {
+  "name": "Harry Reid International",
+  "city": "Las Vegas",
+  "lat": 36.084,
+  "lon": -115.154,
+  "elev": 665,
+  "tz": "America/Los_Angeles"
+ },
+ "PHX": {
+  "name": "Phoenix Sky Harbor",
+  "city": "Phoenix",
+  "lat": 33.434,
+  "lon": -112.012,
+  "elev": 346,
+  "tz": "America/Phoenix"
+ },
+ "SLC": {
+  "name": "Salt Lake City International",
+  "city": "Salt Lake City",
+  "lat": 40.788,
+  "lon": -111.978,
+  "elev": 1288,
+  "tz": "America/Denver"
+ },
+ "DEN": {
+  "name": "Denver International",
+  "city": "Denver",
+  "lat": 39.856,
+  "lon": -104.673,
+  "elev": 1655,
+  "tz": "America/Denver"
+ },
+ "BOI": {
+  "name": "Boise Airport",
+  "city": "Boise",
+  "lat": 43.564,
+  "lon": -116.223,
+  "elev": 875,
+  "tz": "America/Boise"
+ },
+ "GEG": {
+  "name": "Spokane International",
+  "city": "Spokane",
+  "lat": 47.62,
+  "lon": -117.534,
+  "elev": 724,
+  "tz": "America/Los_Angeles"
+ },
+ "ANC": {
+  "name": "Ted Stevens Anchorage",
+  "city": "Anchorage",
+  "lat": 61.174,
+  "lon": -149.996,
+  "elev": 46,
+  "tz": "America/Anchorage"
+ },
+ "HNL": {
+  "name": "Daniel K. Inouye",
+  "city": "Honolulu",
+  "lat": 21.319,
+  "lon": -157.922,
+  "elev": 4,
+  "tz": "Pacific/Honolulu"
+ },
+ "MSP": {
+  "name": "Minneapolis-Saint Paul",
+  "city": "Minneapolis",
+  "lat": 44.882,
+  "lon": -93.222,
+  "elev": 256,
+  "tz": "America/Chicago"
+ },
+ "ORD": {
+  "name": "Chicago O'Hare",
+  "city": "Chicago",
+  "lat": 41.979,
+  "lon": -87.907,
+  "elev": 204,
+  "tz": "America/Chicago"
+ },
+ "MDW": {
+  "name": "Chicago Midway",
+  "city": "Chicago",
+  "lat": 41.786,
+  "lon": -87.752,
+  "elev": 188,
+  "tz": "America/Chicago"
+ },
+ "DTW": {
+  "name": "Detroit Metropolitan",
+  "city": "Detroit",
+  "lat": 42.212,
+  "lon": -83.353,
+  "elev": 197,
+  "tz": "America/Detroit"
+ },
+ "DFW": {
+  "name": "Dallas/Fort Worth",
+  "city": "Dallas",
+  "lat": 32.897,
+  "lon": -97.038,
+  "elev": 185,
+  "tz": "America/Chicago"
+ },
+ "IAH": {
+  "name": "Houston George Bush",
+  "city": "Houston",
+  "lat": 29.984,
+  "lon": -95.341,
+  "elev": 30,
+  "tz": "America/Chicago"
+ },
+ "AUS": {
+  "name": "Austin-Bergstrom",
+  "city": "Austin",
+  "lat": 30.194,
+  "lon": -97.67,
+  "elev": 165,
+  "tz": "America/Chicago"
+ },
+ "ATL": {
+  "name": "Hartsfield-Jackson Atlanta",
+  "city": "Atlanta",
+  "lat": 33.64,
+  "lon": -84.427,
+  "elev": 313,
+  "tz": "America/New_York"
+ },
+ "MIA": {
+  "name": "Miami International",
+  "city": "Miami",
+  "lat": 25.796,
+  "lon": -80.287,
+  "elev": 3,
+  "tz": "America/New_York"
+ },
+ "MCO": {
+  "name": "Orlando International",
+  "city": "Orlando",
+  "lat": 28.429,
+  "lon": -81.309,
+  "elev": 29,
+  "tz": "America/New_York"
+ },
+ "CLT": {
+  "name": "Charlotte Douglas",
+  "city": "Charlotte",
+  "lat": 35.214,
+  "lon": -80.943,
+  "elev": 228,
+  "tz": "America/New_York"
+ },
+ "DCA": {
+  "name": "Reagan National",
+  "city": "Washington",
+  "lat": 38.852,
+  "lon": -77.037,
+  "elev": 5,
+  "tz": "America/New_York"
+ },
+ "IAD": {
+  "name": "Washington Dulles",
+  "city": "Washington",
+  "lat": 38.953,
+  "lon": -77.448,
+  "elev": 95,
+  "tz": "America/New_York"
+ },
+ "BWI": {
+  "name": "Baltimore/Washington",
+  "city": "Baltimore",
+  "lat": 39.175,
+  "lon": -76.668,
+  "elev": 45,
+  "tz": "America/New_York"
+ },
+ "PHL": {
+  "name": "Philadelphia International",
+  "city": "Philadelphia",
+  "lat": 39.872,
+  "lon": -75.241,
+  "elev": 11,
+  "tz": "America/New_York"
+ },
+ "JFK": {
+  "name": "John F. Kennedy",
+  "city": "New York",
+  "lat": 40.64,
+  "lon": -73.779,
+  "elev": 4,
+  "tz": "America/New_York"
+ },
+ "LGA": {
+  "name": "LaGuardia",
+  "city": "New York",
+  "lat": 40.777,
+  "lon": -73.874,
+  "elev": 6,
+  "tz": "America/New_York"
+ },
+ "EWR": {
+  "name": "Newark Liberty",
+  "city": "Newark",
+  "lat": 40.69,
+  "lon": -74.169,
+  "elev": 5,
+  "tz": "America/New_York"
+ },
+ "BOS": {
+  "name": "Boston Logan",
+  "city": "Boston",
+  "lat": 42.364,
+  "lon": -71.005,
+  "elev": 6,
+  "tz": "America/New_York"
+ },
+ "YVR": {
+  "name": "Vancouver International",
+  "city": "Vancouver",
+  "lat": 49.195,
+  "lon": -123.179,
+  "elev": 4,
+  "tz": "America/Vancouver"
+ },
+ "YYC": {
+  "name": "Calgary International",
+  "city": "Calgary",
+  "lat": 51.114,
+  "lon": -114.02,
+  "elev": 1099,
+  "tz": "America/Edmonton"
+ },
+ "YYZ": {
+  "name": "Toronto Pearson",
+  "city": "Toronto",
+  "lat": 43.677,
+  "lon": -79.631,
+  "elev": 173,
+  "tz": "America/Toronto"
+ },
+ "YUL": {
+  "name": "Montreal-Trudeau",
+  "city": "Montreal",
+  "lat": 45.47,
+  "lon": -73.741,
+  "elev": 36,
+  "tz": "America/Toronto"
+ },
+ "MEX": {
+  "name": "Mexico City International",
+  "city": "Mexico City",
+  "lat": 19.436,
+  "lon": -99.072,
+  "elev": 2230,
+  "tz": "America/Mexico_City"
+ },
+ "CUN": {
+  "name": "Cancun International",
+  "city": "Cancun",
+  "lat": 21.037,
+  "lon": -86.877,
+  "elev": 6,
+  "tz": "America/Cancun"
+ },
+ "GDL": {
+  "name": "Guadalajara International",
+  "city": "Guadalajara",
+  "lat": 20.522,
+  "lon": -103.311,
+  "elev": 1529,
+  "tz": "America/Mexico_City"
+ }
+}

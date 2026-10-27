@@ -1,0 +1,234 @@
+{
+ "B738": {
+  "name": "Boeing 737-800",
+  "seats": 6,
+  "engines": "Two CFM56 turbofans",
+  "cruiseAltM": 11000,
+  "cruiseSpeedMs": 235,
+  "notes": "The workhorse of US domestic flying. Over 5,000 built. Its blended winglets, the upturned wingtips, cut fuel burn by about 4 percent."
+ },
+ "B38M": {
+  "name": "Boeing 737 MAX 8",
+  "seats": 6,
+  "engines": "Two CFM LEAP-1B turbofans",
+  "cruiseAltM": 11300,
+  "cruiseSpeedMs": 235,
+  "notes": "The newest 737, with much larger engines and split-scimitar winglets. The engines are so big they had to be mounted higher and further forward on the wing."
+ },
+ "B739": {
+  "name": "Boeing 737-900ER",
+  "seats": 6,
+  "engines": "Two CFM56 turbofans",
+  "cruiseAltM": 11000,
+  "cruiseSpeedMs": 235,
+  "notes": "The longest 737, stretched to carry up to 220 people."
+ },
+ "B39M": {
+  "name": "Boeing 737 MAX 9",
+  "seats": 6,
+  "engines": "Two CFM LEAP-1B turbofans",
+  "cruiseAltM": 11300,
+  "cruiseSpeedMs": 235,
+  "notes": "A stretched MAX with up to 220 seats."
+ },
+ "B737": {
+  "name": "Boeing 737-700",
+  "seats": 6,
+  "engines": "Two CFM56 turbofans",
+  "cruiseAltM": 11000,
+  "cruiseSpeedMs": 233,
+  "notes": "The smallest common 737 variant, a favourite of Southwest Airlines."
+ },
+ "A319": {
+  "name": "Airbus A319",
+  "seats": 6,
+  "engines": "Two CFM56 or IAE V2500 turbofans",
+  "cruiseAltM": 11300,
+  "cruiseSpeedMs": 230,
+  "notes": "The short version of the A320 family. Airbus fly-by-wire: the pilots' sidesticks send electronic commands rather than moving cables."
+ },
+ "A320": {
+  "name": "Airbus A320",
+  "seats": 6,
+  "engines": "Two CFM56 or IAE V2500 turbofans",
+  "cruiseAltM": 11300,
+  "cruiseSpeedMs": 230,
+  "notes": "The first airliner with digital fly-by-wire controls, introduced in 1988. Its wingtip fences or sharklets reduce drag."
+ },
+ "A20N": {
+  "name": "Airbus A320neo",
+  "seats": 6,
+  "engines": "Two Pratt & Whitney PW1100G or CFM LEAP-1A turbofans",
+  "cruiseAltM": 11900,
+  "cruiseSpeedMs": 230,
+  "notes": "The neo (new engine option) burns about 15 percent less fuel than the original A320 thanks to huge new engines and sharklet wingtips."
+ },
+ "A321": {
+  "name": "Airbus A321",
+  "seats": 6,
+  "engines": "Two CFM56 or IAE V2500 turbofans",
+  "cruiseAltM": 11300,
+  "cruiseSpeedMs": 230,
+  "notes": "The stretched A320, carrying up to 240 people."
+ },
+ "A21N": {
+  "name": "Airbus A321neo",
+  "seats": 6,
+  "engines": "Two PW1100G or CFM LEAP-1A turbofans",
+  "cruiseAltM": 11900,
+  "cruiseSpeedMs": 230,
+  "notes": "Long-range single-aisle jet that now flies transatlantic routes once reserved for widebodies."
+ },
+ "B752": {
+  "name": "Boeing 757-200",
+  "seats": 6,
+  "engines": "Two Rolls-Royce RB211 or Pratt & Whitney PW2000 turbofans",
+  "cruiseAltM": 11600,
+  "cruiseSpeedMs": 240,
+  "notes": "Famously overpowered for its size, with a steep climb; pilots call it the 'Atari Ferrari'. Out of production since 2004."
+ },
+ "B763": {
+  "name": "Boeing 767-300",
+  "seats": 7,
+  "engines": "Two GE CF6, PW4000 or RB211 turbofans",
+  "cruiseAltM": 11900,
+  "cruiseSpeedMs": 240,
+  "notes": "A twin-aisle widebody with a 2-3-2 cabin, so most seats are a window or an aisle."
+ },
+ "B788": {
+  "name": "Boeing 787-8 Dreamliner",
+  "seats": 9,
+  "engines": "Two GEnx or Rolls-Royce Trent 1000 turbofans",
+  "cruiseAltM": 12500,
+  "cruiseSpeedMs": 250,
+  "notes": "Half carbon-fibre composite by weight, with the largest windows of any airliner and cabin pressure set to a lower 1,800 m equivalent, which makes you feel better on arrival."
+ },
+ "B789": {
+  "name": "Boeing 787-9 Dreamliner",
+  "seats": 9,
+  "engines": "Two GEnx or Rolls-Royce Trent 1000 turbofans",
+  "cruiseAltM": 12500,
+  "cruiseSpeedMs": 250,
+  "notes": "The stretched Dreamliner. Watch the wings: they flex upward by several metres in flight, by design."
+ },
+ "B772": {
+  "name": "Boeing 777-200",
+  "seats": 9,
+  "engines": "Two GE90, PW4000 or Trent 800 turbofans",
+  "cruiseAltM": 11900,
+  "cruiseSpeedMs": 250,
+  "notes": "The first Boeing designed entirely on computers. Its GE90 engines are as wide as a 737 fuselage."
+ },
+ "B77W": {
+  "name": "Boeing 777-300ER",
+  "seats": 10,
+  "engines": "Two GE90-115B turbofans",
+  "cruiseAltM": 11900,
+  "cruiseSpeedMs": 250,
+  "notes": "The most powerful jet engines ever flown hang under this wing, each producing over 115,000 pounds of thrust."
+ },
+ "A332": {
+  "name": "Airbus A330-200",
+  "seats": 8,
+  "engines": "Two GE CF6, PW4000 or Trent 700 turbofans",
+  "cruiseAltM": 11900,
+  "cruiseSpeedMs": 245,
+  "notes": "A long-range widebody with a 2-4-2 economy cabin."
+ },
+ "A333": {
+  "name": "Airbus A330-300",
+  "seats": 8,
+  "engines": "Two GE CF6, PW4000 or Trent 700 turbofans",
+  "cruiseAltM": 11900,
+  "cruiseSpeedMs": 245,
+  "notes": "Stretched A330, common on transatlantic and Hawaii routes."
+ },
+ "A359": {
+  "name": "Airbus A350-900",
+  "seats": 9,
+  "engines": "Two Rolls-Royce Trent XWB turbofans",
+  "cruiseAltM": 12500,
+  "cruiseSpeedMs": 250,
+  "notes": "Carbon-fibre fuselage and wings, with curved wingtips and the quietest cabin of any widebody."
+ },
+ "E170": {
+  "name": "Embraer E170",
+  "seats": 4,
+  "engines": "Two GE CF34 turbofans",
+  "cruiseAltM": 11000,
+  "cruiseSpeedMs": 225,
+  "notes": "A regional jet with a 2-2 cabin: every seat is a window or an aisle."
+ },
+ "E175": {
+  "name": "Embraer E175",
+  "seats": 4,
+  "engines": "Two GE CF34 turbofans",
+  "cruiseAltM": 11000,
+  "cruiseSpeedMs": 225,
+  "notes": "The most common regional jet in the United States, flown by partner airlines for the majors. Every seat is a window or an aisle."
+ },
+ "E75L": {
+  "name": "Embraer E175 (long wing)",
+  "seats": 4,
+  "engines": "Two GE CF34 turbofans",
+  "cruiseAltM": 11000,
+  "cruiseSpeedMs": 225,
+  "notes": "The E175 with larger winglets for better fuel economy."
+ },
+ "E190": {
+  "name": "Embraer E190",
+  "seats": 4,
+  "engines": "Two GE CF34 turbofans",
+  "cruiseAltM": 11000,
+  "cruiseSpeedMs": 225,
+  "notes": "A 100-seat regional jet with a 2-2 cabin."
+ },
+ "CRJ9": {
+  "name": "Bombardier CRJ900",
+  "seats": 4,
+  "engines": "Two GE CF34 turbofans",
+  "cruiseAltM": 11000,
+  "cruiseSpeedMs": 225,
+  "notes": "A stretched regional jet with rear-mounted engines, so the wing view is uninterrupted."
+ },
+ "CRJ7": {
+  "name": "Bombardier CRJ700",
+  "seats": 4,
+  "engines": "Two GE CF34 turbofans",
+  "cruiseAltM": 11000,
+  "cruiseSpeedMs": 225,
+  "notes": "A 70-seat regional jet with rear-mounted engines."
+ },
+ "DH8D": {
+  "name": "De Havilland Dash 8-400",
+  "seats": 4,
+  "engines": "Two Pratt & Whitney Canada PW150 turboprops",
+  "cruiseAltM": 7600,
+  "cruiseSpeedMs": 180,
+  "notes": "A fast turboprop that cruises lower than jets, which means a closer, more detailed view of the ground."
+ },
+ "AT76": {
+  "name": "ATR 72-600",
+  "seats": 4,
+  "engines": "Two PW127 turboprops",
+  "cruiseAltM": 7000,
+  "cruiseSpeedMs": 140,
+  "notes": "A short-haul turboprop; low and slow is good for sightseeing."
+ },
+ "BCS3": {
+  "name": "Airbus A220-300",
+  "seats": 5,
+  "engines": "Two Pratt & Whitney PW1500G turbofans",
+  "cruiseAltM": 12000,
+  "cruiseSpeedMs": 230,
+  "notes": "Designed by Bombardier as the C Series. Its 2-3 cabin means fewer middle seats, and its windows are unusually large."
+ },
+ "BCS1": {
+  "name": "Airbus A220-100",
+  "seats": 5,
+  "engines": "Two PW1500G turbofans",
+  "cruiseAltM": 12000,
+  "cruiseSpeedMs": 230,
+  "notes": "The smaller A220 with a 2-3 cabin and big windows."
+ }
+}

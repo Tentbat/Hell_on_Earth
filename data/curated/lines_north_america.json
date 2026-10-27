@@ -1,0 +1,912 @@
+{
+ "lines": [
+  {
+   "id": "us-canada-49",
+   "name": "United States-Canada border (49th parallel)",
+   "category": "border",
+   "points": [
+    {
+     "latitude": 49.0,
+     "longitude": -123.32
+    },
+    {
+     "latitude": 49.0,
+     "longitude": -95.15
+    }
+   ],
+   "summary": "The longest straight international border in the world, 2,000 km along the 49th parallel from the Pacific to Lake of the Woods, agreed in 1818 and 1846. A cleared strip 6 m wide marks it through forest.",
+   "kidSummary": "The line between the United States and Canada. It runs perfectly straight for 1,200 miles.",
+   "leftRegion": "Canada",
+   "rightRegion": "United States"
+  },
+  {
+   "id": "wa-or",
+   "name": "Washington-Oregon border",
+   "category": "border",
+   "points": [
+    {
+     "latitude": 46.25,
+     "longitude": -124.05
+    },
+    {
+     "latitude": 46.15,
+     "longitude": -123.3
+    },
+    {
+     "latitude": 45.65,
+     "longitude": -122.75
+    },
+    {
+     "latitude": 45.7,
+     "longitude": -121.5
+    },
+    {
+     "latitude": 45.95,
+     "longitude": -119.3
+    },
+    {
+     "latitude": 46.0,
+     "longitude": -119.0
+    },
+    {
+     "latitude": 46.0,
+     "longitude": -116.92
+    }
+   ],
+   "summary": "Follows the Columbia River from the Pacific to near Wallula Gap, then runs straight east along 46 degrees north to Idaho.",
+   "kidSummary": "Washington is on one side of this big river, Oregon on the other.",
+   "leftRegion": "Washington",
+   "rightRegion": "Oregon"
+  },
+  {
+   "id": "wa-id",
+   "name": "Washington-Idaho border",
+   "category": "border",
+   "points": [
+    {
+     "latitude": 46.0,
+     "longitude": -117.04
+    },
+    {
+     "latitude": 49.0,
+     "longitude": -117.04
+    }
+   ],
+   "summary": "A straight meridian line fixed in 1863.",
+   "leftRegion": "Idaho",
+   "rightRegion": "Washington"
+  },
+  {
+   "id": "or-id",
+   "name": "Oregon-Idaho border",
+   "category": "border",
+   "points": [
+    {
+     "latitude": 42.0,
+     "longitude": -117.03
+    },
+    {
+     "latitude": 44.0,
+     "longitude": -117.03
+    },
+    {
+     "latitude": 44.4,
+     "longitude": -117.2
+    },
+    {
+     "latitude": 45.6,
+     "longitude": -116.5
+    },
+    {
+     "latitude": 46.0,
+     "longitude": -116.92
+    }
+   ],
+   "summary": "Straight along a meridian in the south, then follows the Snake River north through Hells Canyon.",
+   "leftRegion": "Idaho",
+   "rightRegion": "Oregon"
+  },
+  {
+   "id": "id-mt",
+   "name": "Idaho-Montana border",
+   "category": "border",
+   "points": [
+    {
+     "latitude": 49.0,
+     "longitude": -116.05
+    },
+    {
+     "latitude": 47.95,
+     "longitude": -116.05
+    },
+    {
+     "latitude": 47.0,
+     "longitude": -115.0
+    },
+    {
+     "latitude": 46.6,
+     "longitude": -114.3
+    },
+    {
+     "latitude": 45.7,
+     "longitude": -114.5
+    },
+    {
+     "latitude": 45.5,
+     "longitude": -114.0
+    },
+    {
+     "latitude": 44.5,
+     "longitude": -112.9
+    },
+    {
+     "latitude": 44.5,
+     "longitude": -111.4
+    },
+    {
+     "latitude": 44.5,
+     "longitude": -111.05
+    }
+   ],
+   "summary": "Follows the Bitterroot crest and the Continental Divide for most of its length, then the 44.5 parallel to Yellowstone.",
+   "leftRegion": "Idaho",
+   "rightRegion": "Montana"
+  },
+  {
+   "id": "id-wy",
+   "name": "Idaho-Wyoming border",
+   "category": "border",
+   "points": [
+    {
+     "latitude": 44.5,
+     "longitude": -111.05
+    },
+    {
+     "latitude": 42.0,
+     "longitude": -111.05
+    }
+   ],
+   "summary": "A straight meridian line.",
+   "leftRegion": "Wyoming",
+   "rightRegion": "Idaho"
+  },
+  {
+   "id": "mt-wy",
+   "name": "Montana-Wyoming border",
+   "category": "border",
+   "points": [
+    {
+     "latitude": 45.0,
+     "longitude": -111.05
+    },
+    {
+     "latitude": 45.0,
+     "longitude": -104.05
+    }
+   ],
+   "summary": "The 45th parallel, halfway between the equator and the North Pole.",
+   "kidSummary": "You are exactly halfway between the equator and the North Pole here.",
+   "leftRegion": "Wyoming",
+   "rightRegion": "Montana"
+  },
+  {
+   "id": "wy-ut-co",
+   "name": "Wyoming south border",
+   "category": "border",
+   "points": [
+    {
+     "latitude": 41.0,
+     "longitude": -111.05
+    },
+    {
+     "latitude": 41.0,
+     "longitude": -104.05
+    }
+   ],
+   "summary": "The 41st parallel separates Wyoming from Utah and Colorado. Wyoming is one of only two rectangular states.",
+   "leftRegion": "Utah / Colorado",
+   "rightRegion": "Wyoming"
+  },
+  {
+   "id": "wy-east",
+   "name": "Wyoming-South Dakota/Nebraska border",
+   "category": "border",
+   "points": [
+    {
+     "latitude": 45.0,
+     "longitude": -104.05
+    },
+    {
+     "latitude": 41.0,
+     "longitude": -104.05
+    }
+   ],
+   "summary": "A straight meridian line.",
+   "leftRegion": "Wyoming",
+   "rightRegion": "South Dakota / Nebraska"
+  },
+  {
+   "id": "ut-co",
+   "name": "Utah-Colorado border",
+   "category": "border",
+   "points": [
+    {
+     "latitude": 41.0,
+     "longitude": -109.05
+    },
+    {
+     "latitude": 37.0,
+     "longitude": -109.05
+    }
+   ],
+   "summary": "A straight meridian line, with a small surveying kink near the middle that is too small to see.",
+   "leftRegion": "Colorado",
+   "rightRegion": "Utah"
+  },
+  {
+   "id": "co-east",
+   "name": "Colorado-Kansas/Nebraska border",
+   "category": "border",
+   "points": [
+    {
+     "latitude": 41.0,
+     "longitude": -102.05
+    },
+    {
+     "latitude": 37.0,
+     "longitude": -102.05
+    }
+   ],
+   "summary": "A straight meridian line through the High Plains.",
+   "leftRegion": "Colorado",
+   "rightRegion": "Kansas / Nebraska"
+  },
+  {
+   "id": "co-south",
+   "name": "Colorado south border",
+   "category": "border",
+   "points": [
+    {
+     "latitude": 37.0,
+     "longitude": -109.05
+    },
+    {
+     "latitude": 37.0,
+     "longitude": -102.05
+    }
+   ],
+   "summary": "The 37th parallel separates Colorado from New Mexico and Oklahoma; it continues east as the Kansas-Oklahoma line.",
+   "leftRegion": "New Mexico / Oklahoma",
+   "rightRegion": "Colorado"
+  },
+  {
+   "id": "ut-id-nv",
+   "name": "Utah and Nevada north border",
+   "category": "border",
+   "points": [
+    {
+     "latitude": 42.0,
+     "longitude": -120.0
+    },
+    {
+     "latitude": 42.0,
+     "longitude": -111.05
+    }
+   ],
+   "summary": "The 42nd parallel runs from California to Wyoming, separating Oregon and Idaho from Nevada and Utah.",
+   "leftRegion": "Oregon / Idaho",
+   "rightRegion": "California / Nevada / Utah"
+  },
+  {
+   "id": "ut-nv",
+   "name": "Utah-Nevada border",
+   "category": "border",
+   "points": [
+    {
+     "latitude": 42.0,
+     "longitude": -114.05
+    },
+    {
+     "latitude": 37.0,
+     "longitude": -114.05
+    }
+   ],
+   "summary": "A straight meridian line across the Great Basin.",
+   "leftRegion": "Utah",
+   "rightRegion": "Nevada"
+  },
+  {
+   "id": "ut-az",
+   "name": "Utah-Arizona border",
+   "category": "border",
+   "points": [
+    {
+     "latitude": 37.0,
+     "longitude": -114.05
+    },
+    {
+     "latitude": 37.0,
+     "longitude": -109.05
+    }
+   ],
+   "summary": "The 37th parallel.",
+   "leftRegion": "Utah",
+   "rightRegion": "Arizona"
+  },
+  {
+   "id": "az-nm",
+   "name": "Arizona-New Mexico border",
+   "category": "border",
+   "points": [
+    {
+     "latitude": 37.0,
+     "longitude": -109.05
+    },
+    {
+     "latitude": 31.33,
+     "longitude": -109.05
+    }
+   ],
+   "summary": "A straight meridian line.",
+   "leftRegion": "Arizona",
+   "rightRegion": "New Mexico"
+  },
+  {
+   "id": "ca-nv",
+   "name": "California-Nevada border",
+   "category": "border",
+   "points": [
+    {
+     "latitude": 42.0,
+     "longitude": -120.0
+    },
+    {
+     "latitude": 39.0,
+     "longitude": -120.0
+    },
+    {
+     "latitude": 35.0,
+     "longitude": -114.63
+    }
+   ],
+   "summary": "Straight south along a meridian to Lake Tahoe, then a diagonal to the Colorado River, agreed in 1850.",
+   "leftRegion": "Nevada",
+   "rightRegion": "California"
+  },
+  {
+   "id": "ne-ks",
+   "name": "Nebraska-Kansas border",
+   "category": "border",
+   "points": [
+    {
+     "latitude": 40.0,
+     "longitude": -102.05
+    },
+    {
+     "latitude": 40.0,
+     "longitude": -95.3
+    }
+   ],
+   "summary": "The 40th parallel.",
+   "leftRegion": "Nebraska",
+   "rightRegion": "Kansas"
+  },
+  {
+   "id": "ks-ok",
+   "name": "Kansas-Oklahoma border",
+   "category": "border",
+   "points": [
+    {
+     "latitude": 37.0,
+     "longitude": -102.05
+    },
+    {
+     "latitude": 37.0,
+     "longitude": -94.62
+    }
+   ],
+   "summary": "The 37th parallel.",
+   "leftRegion": "Kansas",
+   "rightRegion": "Oklahoma"
+  },
+  {
+   "id": "tx-nm",
+   "name": "Texas-New Mexico border",
+   "category": "border",
+   "points": [
+    {
+     "latitude": 36.5,
+     "longitude": -103.0
+    },
+    {
+     "latitude": 32.0,
+     "longitude": -103.0
+    },
+    {
+     "latitude": 32.0,
+     "longitude": -106.6
+    }
+   ],
+   "summary": "The 103rd meridian down the Panhandle and west Texas, then the 32nd parallel west to El Paso.",
+   "leftRegion": "New Mexico",
+   "rightRegion": "Texas"
+  },
+  {
+   "id": "mt-nd-sd",
+   "name": "Montana east border",
+   "category": "border",
+   "points": [
+    {
+     "latitude": 49.0,
+     "longitude": -104.05
+    },
+    {
+     "latitude": 45.0,
+     "longitude": -104.05
+    }
+   ],
+   "summary": "A straight meridian line.",
+   "leftRegion": "Montana",
+   "rightRegion": "North Dakota / South Dakota"
+  },
+  {
+   "id": "nd-sd",
+   "name": "North Dakota-South Dakota border",
+   "category": "border",
+   "points": [
+    {
+     "latitude": 45.94,
+     "longitude": -104.05
+    },
+    {
+     "latitude": 45.94,
+     "longitude": -96.56
+    }
+   ],
+   "summary": "A straight parallel line.",
+   "leftRegion": "North Dakota",
+   "rightRegion": "South Dakota"
+  },
+  {
+   "id": "continental-divide",
+   "name": "Continental Divide",
+   "category": "border",
+   "points": [
+    {
+     "latitude": 49.0,
+     "longitude": -114.05
+    },
+    {
+     "latitude": 48.3,
+     "longitude": -113.4
+    },
+    {
+     "latitude": 47.6,
+     "longitude": -112.6
+    },
+    {
+     "latitude": 47.1,
+     "longitude": -112.4
+    },
+    {
+     "latitude": 46.6,
+     "longitude": -112.3
+    },
+    {
+     "latitude": 45.9,
+     "longitude": -112.4
+    },
+    {
+     "latitude": 45.7,
+     "longitude": -113.9
+    },
+    {
+     "latitude": 44.97,
+     "longitude": -113.44
+    },
+    {
+     "latitude": 44.56,
+     "longitude": -112.3
+    },
+    {
+     "latitude": 44.4,
+     "longitude": -111.4
+    },
+    {
+     "latitude": 44.4,
+     "longitude": -110.8
+    },
+    {
+     "latitude": 43.75,
+     "longitude": -110.06
+    },
+    {
+     "latitude": 43.5,
+     "longitude": -109.9
+    },
+    {
+     "latitude": 42.95,
+     "longitude": -109.3
+    },
+    {
+     "latitude": 42.35,
+     "longitude": -108.9
+    },
+    {
+     "latitude": 41.8,
+     "longitude": -107.6
+    },
+    {
+     "latitude": 41.4,
+     "longitude": -107.5
+    },
+    {
+     "latitude": 41.0,
+     "longitude": -106.8
+    },
+    {
+     "latitude": 40.38,
+     "longitude": -106.6
+    },
+    {
+     "latitude": 40.0,
+     "longitude": -105.9
+    },
+    {
+     "latitude": 39.8,
+     "longitude": -105.78
+    },
+    {
+     "latitude": 39.66,
+     "longitude": -105.88
+    },
+    {
+     "latitude": 39.36,
+     "longitude": -106.06
+    },
+    {
+     "latitude": 38.5,
+     "longitude": -106.33
+    },
+    {
+     "latitude": 37.8,
+     "longitude": -107.5
+    },
+    {
+     "latitude": 37.48,
+     "longitude": -106.8
+    },
+    {
+     "latitude": 37.0,
+     "longitude": -106.45
+    },
+    {
+     "latitude": 36.5,
+     "longitude": -106.5
+    },
+    {
+     "latitude": 35.9,
+     "longitude": -106.7
+    },
+    {
+     "latitude": 35.0,
+     "longitude": -107.5
+    },
+    {
+     "latitude": 34.0,
+     "longitude": -108.1
+    },
+    {
+     "latitude": 32.5,
+     "longitude": -108.6
+    },
+    {
+     "latitude": 31.8,
+     "longitude": -108.5
+    }
+   ],
+   "summary": "The crest that divides water flowing to the Pacific from water flowing to the Atlantic and the Gulf of Mexico. It is not a line of highest peaks: in Wyoming's Great Divide Basin it splits around a basin that drains to neither ocean.",
+   "kidSummary": "Rain that lands on one side of this line flows to the Pacific Ocean; on the other side it flows all the way to the Atlantic.",
+   "leftRegion": "Pacific drainage",
+   "rightRegion": "Atlantic drainage"
+  },
+  {
+   "id": "columbia-river",
+   "name": "Columbia River",
+   "category": "river",
+   "points": [
+    {
+     "latitude": 49.0,
+     "longitude": -117.6
+    },
+    {
+     "latitude": 48.6,
+     "longitude": -118.1
+    },
+    {
+     "latitude": 47.96,
+     "longitude": -118.98
+    },
+    {
+     "latitude": 47.6,
+     "longitude": -119.9
+    },
+    {
+     "latitude": 47.4,
+     "longitude": -120.3
+    },
+    {
+     "latitude": 46.6,
+     "longitude": -119.9
+    },
+    {
+     "latitude": 46.25,
+     "longitude": -119.1
+    },
+    {
+     "latitude": 46.0,
+     "longitude": -118.95
+    },
+    {
+     "latitude": 45.7,
+     "longitude": -120.7
+    },
+    {
+     "latitude": 45.65,
+     "longitude": -121.9
+    },
+    {
+     "latitude": 45.6,
+     "longitude": -122.4
+    },
+    {
+     "latitude": 46.1,
+     "longitude": -123.1
+    },
+    {
+     "latitude": 46.25,
+     "longitude": -124.05
+    }
+   ],
+   "summary": "The largest river flowing into the Pacific from North America, with 14 dams on its main stem. Its hydropower made the aluminium for Second World War aircraft and the plutonium at Hanford.",
+   "kidSummary": "A giant river that makes electricity at fourteen dams on its way to the sea."
+  },
+  {
+   "id": "snake-river",
+   "name": "Snake River",
+   "category": "river",
+   "points": [
+    {
+     "latitude": 44.1,
+     "longitude": -110.7
+    },
+    {
+     "latitude": 43.5,
+     "longitude": -110.8
+    },
+    {
+     "latitude": 43.0,
+     "longitude": -111.4
+    },
+    {
+     "latitude": 42.9,
+     "longitude": -112.5
+    },
+    {
+     "latitude": 42.6,
+     "longitude": -114.4
+    },
+    {
+     "latitude": 43.6,
+     "longitude": -116.9
+    },
+    {
+     "latitude": 44.4,
+     "longitude": -117.2
+    },
+    {
+     "latitude": 45.6,
+     "longitude": -116.5
+    },
+    {
+     "latitude": 46.2,
+     "longitude": -119.0
+    }
+   ],
+   "summary": "A 1,735 km tributary of the Columbia, rising in Yellowstone and carving Hells Canyon on its way to Washington.",
+   "kidSummary": "A river that starts in Yellowstone and carves the deepest canyon in North America."
+  },
+  {
+   "id": "missouri-river",
+   "name": "Missouri River",
+   "category": "river",
+   "points": [
+    {
+     "latitude": 45.9,
+     "longitude": -111.5
+    },
+    {
+     "latitude": 47.5,
+     "longitude": -111.3
+    },
+    {
+     "latitude": 47.8,
+     "longitude": -108.0
+    },
+    {
+     "latitude": 47.8,
+     "longitude": -106.5
+    },
+    {
+     "latitude": 48.0,
+     "longitude": -104.0
+    },
+    {
+     "latitude": 47.3,
+     "longitude": -101.5
+    },
+    {
+     "latitude": 46.0,
+     "longitude": -100.7
+    },
+    {
+     "latitude": 44.4,
+     "longitude": -100.3
+    },
+    {
+     "latitude": 42.9,
+     "longitude": -97.4
+    },
+    {
+     "latitude": 41.3,
+     "longitude": -95.9
+    },
+    {
+     "latitude": 39.1,
+     "longitude": -94.6
+    },
+    {
+     "latitude": 38.8,
+     "longitude": -90.2
+    }
+   ],
+   "summary": "The longest river in North America at 3,767 km, from the Rockies in Montana to the Mississippi at St. Louis.",
+   "kidSummary": "The longest river in North America, nicknamed the Big Muddy."
+  },
+  {
+   "id": "mississippi-river",
+   "name": "Mississippi River",
+   "category": "river",
+   "points": [
+    {
+     "latitude": 47.2,
+     "longitude": -95.2
+    },
+    {
+     "latitude": 44.9,
+     "longitude": -93.2
+    },
+    {
+     "latitude": 43.5,
+     "longitude": -91.2
+    },
+    {
+     "latitude": 41.5,
+     "longitude": -90.5
+    },
+    {
+     "latitude": 39.7,
+     "longitude": -91.3
+    },
+    {
+     "latitude": 38.6,
+     "longitude": -90.2
+    },
+    {
+     "latitude": 37.0,
+     "longitude": -89.2
+    },
+    {
+     "latitude": 35.1,
+     "longitude": -90.1
+    },
+    {
+     "latitude": 32.3,
+     "longitude": -91.0
+    },
+    {
+     "latitude": 30.0,
+     "longitude": -90.1
+    },
+    {
+     "latitude": 29.2,
+     "longitude": -89.3
+    }
+   ],
+   "summary": "Drains 40 percent of the continental United States. Its loops, cutoffs and oxbow lakes show how far it has wandered.",
+   "kidSummary": "The biggest river in America, so wiggly it leaves old loops behind as lakes."
+  },
+  {
+   "id": "colorado-river",
+   "name": "Colorado River",
+   "category": "river",
+   "points": [
+    {
+     "latitude": 40.3,
+     "longitude": -105.8
+    },
+    {
+     "latitude": 39.6,
+     "longitude": -107.3
+    },
+    {
+     "latitude": 39.1,
+     "longitude": -108.7
+    },
+    {
+     "latitude": 38.6,
+     "longitude": -109.6
+    },
+    {
+     "latitude": 37.0,
+     "longitude": -111.5
+    },
+    {
+     "latitude": 36.1,
+     "longitude": -112.1
+    },
+    {
+     "latitude": 36.0,
+     "longitude": -114.7
+    },
+    {
+     "latitude": 34.3,
+     "longitude": -114.2
+    },
+    {
+     "latitude": 32.7,
+     "longitude": -114.7
+    }
+   ],
+   "summary": "Carved the Grand Canyon and now barely reaches the sea; nearly all its water is taken for cities and farms.",
+   "kidSummary": "The river that cut the Grand Canyon."
+  },
+  {
+   "id": "rio-grande",
+   "name": "Rio Grande",
+   "category": "river",
+   "points": [
+    {
+     "latitude": 37.7,
+     "longitude": -107.5
+    },
+    {
+     "latitude": 36.5,
+     "longitude": -106.0
+    },
+    {
+     "latitude": 35.1,
+     "longitude": -106.6
+    },
+    {
+     "latitude": 32.0,
+     "longitude": -106.6
+    },
+    {
+     "latitude": 29.6,
+     "longitude": -104.4
+    },
+    {
+     "latitude": 28.6,
+     "longitude": -100.5
+    },
+    {
+     "latitude": 26.0,
+     "longitude": -97.2
+    }
+   ],
+   "summary": "Rises in the San Juan Mountains and forms the Texas-Mexico border for 2,000 km.",
+   "kidSummary": "A river that is also the border between the United States and Mexico."
+  }
+ ]
+}

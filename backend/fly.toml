@@ -1,0 +1,25 @@
+# Fly.io app definition. Build from the repository root:
+#   fly launch --no-deploy --copy-config --dockerfile backend/Dockerfile
+#   fly volumes create efa_data --size 1
+#   fly secrets set ANTHROPIC_API_KEY=... AERODATABOX_KEY=... OPENSKY_USER=... OPENSKY_PASS=...
+#   fly deploy
+app = "earth-from-above-api"
+primary_region = "sea"
+
+[build]
+  dockerfile = "backend/Dockerfile"
+
+[http_service]
+  internal_port = 8000
+  force_https = true
+  auto_stop_machines = "stop"
+  auto_start_machines = true
+  min_machines_running = 0
+
+[[mounts]]
+  source = "efa_data"
+  destination = "/data"
+
+[[vm]]
+  size = "shared-cpu-1x"
+  memory = "512mb"

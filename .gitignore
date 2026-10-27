@@ -1,0 +1,18 @@
+# macOS / Xcode
+.DS_Store
+ios/EarthFromAbove.xcodeproj/
+ios/*.xcworkspace/
+ios/Packages/*/.build/
+ios/Packages/*/.swiftpm/
+DerivedData/
+*.xcuserstate
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+backend/storage/
+
+# Secrets
+.env

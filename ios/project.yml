@@ -1,0 +1,73 @@
+# XcodeGen project definition. On your Mac:
+#   brew install xcodegen
+#   cd ios && xcodegen generate && open EarthFromAbove.xcodeproj
+name: EarthFromAbove
+options:
+  bundleIdPrefix: com.earthfromabove
+  deploymentTarget:
+    iOS: "17.0"
+  xcodeVersion: "15.0"
+  createIntermediateGroups: true
+packages:
+  EarthFromAboveCore:
+    path: Packages/EarthFromAboveCore
+settings:
+  base:
+    SWIFT_VERSION: "5.9"
+    MARKETING_VERSION: "0.1.0"
+    CURRENT_PROJECT_VERSION: "1"
+    DEVELOPMENT_TEAM: ""   # fill in after enrolling in the Apple Developer Program
+    CODE_SIGN_STYLE: Automatic
+targets:
+  EarthFromAbove:
+    type: application
+    platform: iOS
+    sources:
+      - path: EarthFromAbove
+        excludes:
+          - "Resources/Content/**"
+      # Articles are added as individual resources so Bundle.main finds them by name.
+      - path: EarthFromAbove/Resources/Content
+        buildPhase: resources
+    dependencies:
+      - package: EarthFromAboveCore
+    info:
+      path: EarthFromAbove/Info.plist
+      properties:
+        CFBundleDisplayName: Earth from Above
+        UILaunchScreen: {}
+        UISupportedInterfaceOrientations: [UIInterfaceOrientationPortrait, UIInterfaceOrientationLandscapeLeft, UIInterfaceOrientationLandscapeRight]
+        NSLocationWhenInUseUsageDescription: Earth from Above uses your location to work out where the plane is, so it can tell you what is outside your window. GPS works at cruise altitude near a window and needs no network.
+        NSLocationAlwaysAndWhenInUseUsageDescription: Allowing location in the background lets Earth from Above keep tracking the flight and notify you of upcoming sights while your phone is locked.
+        NSCameraUsageDescription: The camera is used to photograph what you see out of the window so the app can identify it.
+        NSPhotoLibraryUsageDescription: Choose an existing photo taken in flight to have it identified.
+        NSPhotoLibraryAddUsageDescription: Save identified photos with captions to your library.
+        NSMotionUsageDescription: Motion sensors give the camera's pointing angle and detect takeoff and flight phase from cabin pressure.
+        UIBackgroundModes: [location]
+        EFA_BACKEND_URL: "http://localhost:8000"
+        UIApplicationSceneManifest:
+          UIApplicationSupportsMultipleScenes: false
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.earthfromabove.app
+        TARGETED_DEVICE_FAMILY: "1,2"
+        INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents: YES
+  EarthFromAboveCoreTests:
+    type: bundle.unit-test
+    platform: iOS
+    sources:
+      - path: Packages/EarthFromAboveCore/Tests/EarthFromAboveCoreTests
+    dependencies:
+      - package: EarthFromAboveCore
+schemes:
+  EarthFromAbove:
+    build:
+      targets:
+        EarthFromAbove: all
+        EarthFromAboveCoreTests: [test]
+    run:
+      config: Debug
+    test:
+      config: Debug
+      targets:
+        - EarthFromAboveCoreTests

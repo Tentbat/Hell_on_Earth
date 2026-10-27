@@ -1,0 +1,2521 @@
+{
+ "formatVersion": 1,
+ "flight": {
+  "flightNumber": "AS123",
+  "originCode": "SEA",
+  "originName": "Seattle",
+  "destinationCode": "DEN",
+  "destinationName": "Denver",
+  "scheduledDeparture": "2026-11-01T14:00:00Z",
+  "originTimeZone": "America/Los_Angeles",
+  "destinationTimeZone": "America/Denver"
+ },
+ "aircraft": {
+  "typeCode": "B738",
+  "typeName": "Boeing 737-800",
+  "engines": "Two CFM56 turbofans",
+  "seatLettersPerRow": 6,
+  "notes": "The workhorse of US domestic flying. Over 5,000 built. Its blended winglets, the upturned wingtips, cut fuel burn by about 4 percent.",
+  "typicalCruiseAltitudeMeters": 11000.0,
+  "typicalCruiseSpeedMetersPerSecond": 235.0
+ },
+ "route": {
+  "points": [
+   {
+    "coordinate": {
+     "latitude": 47.449,
+     "longitude": -122.30899999999998
+    },
+    "altitudeMeters": 131.0,
+    "elapsedSeconds": 0.0
+   },
+   {
+    "coordinate": {
+     "latitude": 47.4116450336115,
+     "longitude": -122.18758561613527
+    },
+    "altitudeMeters": 758.0755348676989,
+    "elapsedSeconds": 62.707553486769896
+   },
+   {
+    "coordinate": {
+     "latitude": 47.374162061258936,
+     "longitude": -122.06634364279108
+    },
+    "altitudeMeters": 1385.1510697352537,
+    "elapsedSeconds": 125.41510697352537
+   },
+   {
+    "coordinate": {
+     "latitude": 47.33655143262374,
+     "longitude": -121.94527419636567
+    },
+    "altitudeMeters": 2012.2266046031052,
+    "elapsedSeconds": 188.12266046031053
+   },
+   {
+    "coordinate": {
+     "latitude": 47.29881349736111,
+     "longitude": -121.82437738847285
+    },
+    "altitudeMeters": 2639.302139470686,
+    "elapsedSeconds": 250.83021394706861
+   },
+   {
+    "coordinate": {
+     "latitude": 47.26094860508963,
+     "longitude": -121.70365332596928
+    },
+    "altitudeMeters": 3266.3776743383537,
+    "elapsedSeconds": 313.5377674338353
+   },
+   {
+    "coordinate": {
+     "latitude": 47.222957105381276,
+     "longitude": -121.58310211098242
+    },
+    "altitudeMeters": 3893.4532092061,
+    "elapsedSeconds": 376.24532092060997
+   },
+   {
+    "coordinate": {
+     "latitude": 47.18483934775127,
+     "longitude": -121.46272384093838
+    },
+    "altitudeMeters": 4520.528744073763,
+    "elapsedSeconds": 438.95287440737627
+   },
+   {
+    "coordinate": {
+     "latitude": 47.14659568164809,
+     "longitude": -121.34251860858981
+    },
+    "altitudeMeters": 5147.604278941466,
+    "elapsedSeconds": 501.6604278941466
+   },
+   {
+    "coordinate": {
+     "latitude": 47.10822645644358,
+     "longitude": -121.22248650204405
+    },
+    "altitudeMeters": 5774.679813809142,
+    "elapsedSeconds": 564.3679813809142
+   },
+   {
+    "coordinate": {
+     "latitude": 47.06973202142318,
+     "longitude": -121.10262760479121
+    },
+    "altitudeMeters": 6401.755348676864,
+    "elapsedSeconds": 627.0755348676864
+   },
+   {
+    "coordinate": {
+     "latitude": 47.03111272577612,
+     "longitude": -120.98294199573255
+    },
+    "altitudeMeters": 7028.830883544503,
+    "elapsedSeconds": 689.7830883544503
+   },
+   {
+    "coordinate": {
+     "latitude": 46.99236891858585,
+     "longitude": -120.86342974920865
+    },
+    "altitudeMeters": 7655.906418412186,
+    "elapsedSeconds": 752.4906418412186
+   },
+   {
+    "coordinate": {
+     "latitude": 46.95350094882045,
+     "longitude": -120.744090935028
+    },
+    "altitudeMeters": 8282.981953279957,
+    "elapsedSeconds": 815.1981953279958
+   },
+   {
+    "coordinate": {
+     "latitude": 46.91450916532316,
+     "longitude": -120.62492561849545
+    },
+    "altitudeMeters": 8910.057488147671,
+    "elapsedSeconds": 877.9057488147671
+   },
+   {
+    "coordinate": {
+     "latitude": 46.875393916802985,
+     "longitude": -120.5059338604408
+    },
+    "altitudeMeters": 9537.133023015336,
+    "elapsedSeconds": 940.6133023015336
+   },
+   {
+    "coordinate": {
+     "latitude": 46.836155551825414,
+     "longitude": -120.38711571724743
+    },
+    "altitudeMeters": 10164.208557882996,
+    "elapsedSeconds": 1003.3208557882996
+   },
+   {
+    "coordinate": {
+     "latitude": 46.79679441880317,
+     "longitude": -120.26847124088106
+    },
+    "altitudeMeters": 10791.284092750626,
+    "elapsedSeconds": 1066.0284092750626
+   },
+   {
+    "coordinate": {
+     "latitude": 46.75731086598712,
+     "longitude": -120.15000047891849
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 1115.3840597527394
+   },
+   {
+    "coordinate": {
+     "latitude": 46.7177052414572,
+     "longitude": -120.03170347457657
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 1158.078564254367
+   },
+   {
+    "coordinate": {
+     "latitude": 46.677977893113464,
+     "longitude": -119.91358026674096
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 1200.7730687560038
+   },
+   {
+    "coordinate": {
+     "latitude": 46.6381291686672,
+     "longitude": -119.79563088999525
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 1243.4675732576263
+   },
+   {
+    "coordinate": {
+     "latitude": 46.59815941563213,
+     "longitude": -119.67785537464972
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 1286.1620777592618
+   },
+   {
+    "coordinate": {
+     "latitude": 46.55806898131573,
+     "longitude": -119.56025374677073
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 1328.856582260889
+   },
+   {
+    "coordinate": {
+     "latitude": 46.51785821281058,
+     "longitude": -119.4428260282095
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 1371.5510867625142
+   },
+   {
+    "coordinate": {
+     "latitude": 46.477527456985854,
+     "longitude": -119.32557223663139
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 1414.2455912641483
+   },
+   {
+    "coordinate": {
+     "latitude": 46.43707706047885,
+     "longitude": -119.20849238554511
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 1456.9400957657779
+   },
+   {
+    "coordinate": {
+     "latitude": 46.396507369686596,
+     "longitude": -119.09158648433184
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 1499.6346002674088
+   },
+   {
+    "coordinate": {
+     "latitude": 46.355818730757626,
+     "longitude": -118.97485453827444
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 1542.3291047690375
+   },
+   {
+    "coordinate": {
+     "latitude": 46.3150114895837,
+     "longitude": -118.85829654858676
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 1585.0236092706675
+   },
+   {
+    "coordinate": {
+     "latitude": 46.27408599179181,
+     "longitude": -118.74191251244285
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 1627.7181137722941
+   },
+   {
+    "coordinate": {
+     "latitude": 46.23304258273598,
+     "longitude": -118.62570242300625
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 1670.4126182739255
+   },
+   {
+    "coordinate": {
+     "latitude": 46.19188160748947,
+     "longitude": -118.50966626945933
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 1713.1071227755588
+   },
+   {
+    "coordinate": {
+     "latitude": 46.150603410836815,
+     "longitude": -118.3938040370326
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 1755.8016272771865
+   },
+   {
+    "coordinate": {
+     "latitude": 46.1092083372661,
+     "longitude": -118.27811570703389
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 1798.4961317788193
+   },
+   {
+    "coordinate": {
+     "latitude": 46.067696730961224,
+     "longitude": -118.16260125687786
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 1841.1906362804484
+   },
+   {
+    "coordinate": {
+     "latitude": 46.02606893579429,
+     "longitude": -118.04726066011519
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 1883.8851407820753
+   },
+   {
+    "coordinate": {
+     "latitude": 45.98432529531807,
+     "longitude": -117.93209388646186
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 1926.5796452837121
+   },
+   {
+    "coordinate": {
+     "latitude": 45.94246615275861,
+     "longitude": -117.81710090182862
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 1969.2741497853403
+   },
+   {
+    "coordinate": {
+     "latitude": 45.900491851007764,
+     "longitude": -117.70228166835012
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 2011.9686542869663
+   },
+   {
+    "coordinate": {
+     "latitude": 45.85840273261594,
+     "longitude": -117.58763614441429
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 2054.663158788593
+   },
+   {
+    "coordinate": {
+     "latitude": 45.81619913978499,
+     "longitude": -117.47316428469149
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 2097.357663290226
+   },
+   {
+    "coordinate": {
+     "latitude": 45.77388141436095,
+     "longitude": -117.35886604016395
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 2140.0521677918596
+   },
+   {
+    "coordinate": {
+     "latitude": 45.73144989782707,
+     "longitude": -117.24474135815487
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 2182.746672293485
+   },
+   {
+    "coordinate": {
+     "latitude": 45.68890493129683,
+     "longitude": -117.1307901823576
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 2225.4411767951137
+   },
+   {
+    "coordinate": {
+     "latitude": 45.646246855507094,
+     "longitude": -117.01701245286489
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 2268.1356812967524
+   },
+   {
+    "coordinate": {
+     "latitude": 45.60347601081128,
+     "longitude": -116.9034081061981
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 2310.8301857983733
+   },
+   {
+    "coordinate": {
+     "latitude": 45.56059273717262,
+     "longitude": -116.78997707533607
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 2353.524690300006
+   },
+   {
+    "coordinate": {
+     "latitude": 45.51759737415758,
+     "longitude": -116.67671928974448
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 2396.2191948016384
+   },
+   {
+    "coordinate": {
+     "latitude": 45.47449026092928,
+     "longitude": -116.56363467540477
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 2438.9136993032635
+   },
+   {
+    "coordinate": {
+     "latitude": 45.43127173624096,
+     "longitude": -116.45072315484306
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 2481.608203804896
+   },
+   {
+    "coordinate": {
+     "latitude": 45.38794213842965,
+     "longitude": -116.3379846471593
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 2524.3027083065244
+   },
+   {
+    "coordinate": {
+     "latitude": 45.34450180540983,
+     "longitude": -116.22541906805601
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 2566.997212808152
+   },
+   {
+    "coordinate": {
+     "latitude": 45.300951074667154,
+     "longitude": -116.11302632986722
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 2609.6917173097827
+   },
+   {
+    "coordinate": {
+     "latitude": 45.25729028325232,
+     "longitude": -116.00080634158732
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 2652.386221811411
+   },
+   {
+    "coordinate": {
+     "latitude": 45.21351976777494,
+     "longitude": -115.88875900889973
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 2695.0807263130455
+   },
+   {
+    "coordinate": {
+     "latitude": 45.1696398643976,
+     "longitude": -115.77688423420571
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 2737.775230814675
+   },
+   {
+    "coordinate": {
+     "latitude": 45.125650908829876,
+     "longitude": -115.66518191665291
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 2780.4697353163056
+   },
+   {
+    "coordinate": {
+     "latitude": 45.08155323632248,
+     "longitude": -115.55365195216403
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 2823.1642398179342
+   },
+   {
+    "coordinate": {
+     "latitude": 45.03734718166145,
+     "longitude": -115.44229423346535
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 2865.8587443195615
+   },
+   {
+    "coordinate": {
+     "latitude": 44.99303307916258,
+     "longitude": -115.33110865011508
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 2908.5532488211893
+   },
+   {
+    "coordinate": {
+     "latitude": 44.9486112626656,
+     "longitude": -115.2200950885319
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 2951.247753322825
+   },
+   {
+    "coordinate": {
+     "latitude": 44.90408206552876,
+     "longitude": -115.10925343202328
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 2993.942257824455
+   },
+   {
+    "coordinate": {
+     "latitude": 44.859445820623314,
+     "longitude": -114.99858356081361
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 3036.636762326081
+   },
+   {
+    "coordinate": {
+     "latitude": 44.814702860328126,
+     "longitude": -114.88808535207245
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 3079.331266827712
+   },
+   {
+    "coordinate": {
+     "latitude": 44.769853516524286,
+     "longitude": -114.77775867994272
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 3122.025771329342
+   },
+   {
+    "coordinate": {
+     "latitude": 44.724898120589955,
+     "longitude": -114.6676034155686
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 3164.720275830972
+   },
+   {
+    "coordinate": {
+     "latitude": 44.6798370033951,
+     "longitude": -114.55761942712358
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 3207.4147803326036
+   },
+   {
+    "coordinate": {
+     "latitude": 44.634670495296426,
+     "longitude": -114.44780657983829
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 3250.1092848342314
+   },
+   {
+    "coordinate": {
+     "latitude": 44.58939892613234,
+     "longitude": -114.33816473602826
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 3292.8037893358596
+   },
+   {
+    "coordinate": {
+     "latitude": 44.54402262521796,
+     "longitude": -114.22869375512171
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 3335.4982938374865
+   },
+   {
+    "coordinate": {
+     "latitude": 44.49854192134023,
+     "longitude": -114.1193934936871
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 3378.1927983391247
+   },
+   {
+    "coordinate": {
+     "latitude": 44.452957142753185,
+     "longitude": -114.01026380546071
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 3420.8873028407515
+   },
+   {
+    "coordinate": {
+     "latitude": 44.40726861717307,
+     "longitude": -113.90130454137402
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 3463.581807342383
+   },
+   {
+    "coordinate": {
+     "latitude": 44.36147667177374,
+     "longitude": -113.79251554958111
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 3506.276311844014
+   },
+   {
+    "coordinate": {
+     "latitude": 44.31558163318207,
+     "longitude": -113.68389667548593
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 3548.9708163456403
+   },
+   {
+    "coordinate": {
+     "latitude": 44.269583827473355,
+     "longitude": -113.57544776176938
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 3591.6653208472726
+   },
+   {
+    "coordinate": {
+     "latitude": 44.2234835801669,
+     "longitude": -113.4671686484165
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 3634.359825348905
+   },
+   {
+    "coordinate": {
+     "latitude": 44.1772812162216,
+     "longitude": -113.35905917274336
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 3677.054329850532
+   },
+   {
+    "coordinate": {
+     "latitude": 44.1309770600316,
+     "longitude": -113.25111916942392
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 3719.748834352159
+   },
+   {
+    "coordinate": {
+     "latitude": 44.084571435422056,
+     "longitude": -113.14334847051683
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 3762.4433388537877
+   },
+   {
+    "coordinate": {
+     "latitude": 44.03806466564494,
+     "longitude": -113.0357469054921
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 3805.1378433554187
+   },
+   {
+    "coordinate": {
+     "latitude": 43.991457073374875,
+     "longitude": -112.9283143012577
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 3847.8323478570474
+   },
+   {
+    "coordinate": {
+     "latitude": 43.944748980705164,
+     "longitude": -112.8210504821859
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 3890.5268523586797
+   },
+   {
+    "coordinate": {
+     "latitude": 43.8979407091437,
+     "longitude": -112.71395527013976
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 3933.2213568603106
+   },
+   {
+    "coordinate": {
+     "latitude": 43.85103257960912,
+     "longitude": -112.60702848449931
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 3975.9158613619375
+   },
+   {
+    "coordinate": {
+     "latitude": 43.80402491242687,
+     "longitude": -112.50026994218767
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 4018.6103658635657
+   },
+   {
+    "coordinate": {
+     "latitude": 43.75691802732548,
+     "longitude": -112.3936794576971
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 4061.304870365202
+   },
+   {
+    "coordinate": {
+     "latitude": 43.70971224343283,
+     "longitude": -112.28725684311497
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 4103.999374866831
+   },
+   {
+    "coordinate": {
+     "latitude": 43.66240787927243,
+     "longitude": -112.18100190814947
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 4146.693879368459
+   },
+   {
+    "coordinate": {
+     "latitude": 43.61500525275983,
+     "longitude": -112.07491446015534
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 4189.388383870091
+   },
+   {
+    "coordinate": {
+     "latitude": 43.56750468119917,
+     "longitude": -111.96899430415947
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 4232.082888371724
+   },
+   {
+    "coordinate": {
+     "latitude": 43.519906481279605,
+     "longitude": -111.86324124288633
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 4274.777392873351
+   },
+   {
+    "coordinate": {
+     "latitude": 43.47221096907193,
+     "longitude": -111.75765507678334
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 4317.47189737498
+   },
+   {
+    "coordinate": {
+     "latitude": 43.424418460025244,
+     "longitude": -111.65223560404604
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 4360.1664018766105
+   },
+   {
+    "coordinate": {
+     "latitude": 43.37652926896364,
+     "longitude": -111.54698262064329
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 4402.8609063782405
+   },
+   {
+    "coordinate": {
+     "latitude": 43.32854371008299,
+     "longitude": -111.44189592034219
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 4445.555410879871
+   },
+   {
+    "coordinate": {
+     "latitude": 43.28046209694781,
+     "longitude": -111.33697529473295
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 4488.249915381498
+   },
+   {
+    "coordinate": {
+     "latitude": 43.23228474248809,
+     "longitude": -111.23222053325365
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 4530.94441988313
+   },
+   {
+    "coordinate": {
+     "latitude": 43.184011958996315,
+     "longitude": -111.12763142321491
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 4573.638924384755
+   },
+   {
+    "coordinate": {
+     "latitude": 43.13564405812443,
+     "longitude": -111.02320774982428
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 4616.333428886386
+   },
+   {
+    "coordinate": {
+     "latitude": 43.08718135088095,
+     "longitude": -110.91894929621073
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 4659.027933388023
+   },
+   {
+    "coordinate": {
+     "latitude": 43.0386241476281,
+     "longitude": -110.81485584344885
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 4701.72243788965
+   },
+   {
+    "coordinate": {
+     "latitude": 42.98997275807895,
+     "longitude": -110.71092717058298
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 4744.416942391283
+   },
+   {
+    "coordinate": {
+     "latitude": 42.941227491294754,
+     "longitude": -110.60716305465121
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 4787.111446892908
+   },
+   {
+    "coordinate": {
+     "latitude": 42.89238865568213,
+     "longitude": -110.50356327070926
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 4829.805951394539
+   },
+   {
+    "coordinate": {
+     "latitude": 42.84345655899058,
+     "longitude": -110.40012759185426
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 4872.500455896165
+   },
+   {
+    "coordinate": {
+     "latitude": 42.79443150830979,
+     "longitude": -110.29685578924826
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 4915.1949603977955
+   },
+   {
+    "coordinate": {
+     "latitude": 42.74531381006713,
+     "longitude": -110.19374763214185
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 4957.88946489943
+   },
+   {
+    "coordinate": {
+     "latitude": 42.69610377002523,
+     "longitude": -110.09080288789748
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 5000.583969401062
+   },
+   {
+    "coordinate": {
+     "latitude": 42.64680169327955,
+     "longitude": -109.98802132201267
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 5043.2784739026865
+   },
+   {
+    "coordinate": {
+     "latitude": 42.597407884255965,
+     "longitude": -109.88540269814305
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 5085.972978404319
+   },
+   {
+    "coordinate": {
+     "latitude": 42.54792264670855,
+     "longitude": -109.78294677812549
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 5128.667482905947
+   },
+   {
+    "coordinate": {
+     "latitude": 42.498346283717254,
+     "longitude": -109.68065332200078
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 5171.361987407581
+   },
+   {
+    "coordinate": {
+     "latitude": 42.448679097685776,
+     "longitude": -109.57852208803644
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 5214.0564919092085
+   },
+   {
+    "coordinate": {
+     "latitude": 42.39892139033931,
+     "longitude": -109.47655283274923
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 5256.750996410838
+   },
+   {
+    "coordinate": {
+     "latitude": 42.349073462722586,
+     "longitude": -109.37474531092764
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 5299.44550091247
+   },
+   {
+    "coordinate": {
+     "latitude": 42.299135615197756,
+     "longitude": -109.27309927565415
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 5342.140005414098
+   },
+   {
+    "coordinate": {
+     "latitude": 42.24910814744239,
+     "longitude": -109.17161447832743
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 5384.834509915729
+   },
+   {
+    "coordinate": {
+     "latitude": 42.1989913584476,
+     "longitude": -109.0702906686844
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 5427.529014417356
+   },
+   {
+    "coordinate": {
+     "latitude": 42.148785546516066,
+     "longitude": -108.9691275948221
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 5470.223518918985
+   },
+   {
+    "coordinate": {
+     "latitude": 42.09849100926031,
+     "longitude": -108.86812500321948
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 5512.918023420614
+   },
+   {
+    "coordinate": {
+     "latitude": 42.04810804360081,
+     "longitude": -108.76728263875901
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 5555.612527922247
+   },
+   {
+    "coordinate": {
+     "latitude": 41.997636945764334,
+     "longitude": -108.66660024474828
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 5598.307032423874
+   },
+   {
+    "coordinate": {
+     "latitude": 41.947078011282194,
+     "longitude": -108.56607756294119
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 5641.001536925507
+   },
+   {
+    "coordinate": {
+     "latitude": 41.89643153498864,
+     "longitude": -108.46571433355938
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 5683.696041427134
+   },
+   {
+    "coordinate": {
+     "latitude": 41.84569781101929,
+     "longitude": -108.36551029531314
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 5726.3905459287635
+   },
+   {
+    "coordinate": {
+     "latitude": 41.7948771328095,
+     "longitude": -108.26546518542253
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 5769.085050430396
+   },
+   {
+    "coordinate": {
+     "latitude": 41.74396979309298,
+     "longitude": -108.16557873963811
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 5811.7795549320235
+   },
+   {
+    "coordinate": {
+     "latitude": 41.69297608390024,
+     "longitude": -108.06585069226162
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 5854.4740594336545
+   },
+   {
+    "coordinate": {
+     "latitude": 41.641896296557256,
+     "longitude": -107.9662807761666
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 5897.168563935282
+   },
+   {
+    "coordinate": {
+     "latitude": 41.590730721684075,
+     "longitude": -107.86686872281874
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 5939.863068436911
+   },
+   {
+    "coordinate": {
+     "latitude": 41.53947964919351,
+     "longitude": -107.76761426229618
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 5982.5575729385455
+   },
+   {
+    "coordinate": {
+     "latitude": 41.48814336828989,
+     "longitude": -107.66851712330968
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 6025.252077440173
+   },
+   {
+    "coordinate": {
+     "latitude": 41.436722167467806,
+     "longitude": -107.56957703322257
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 6067.946581941804
+   },
+   {
+    "coordinate": {
+     "latitude": 41.38521633451095,
+     "longitude": -107.47079371807064
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 6110.6410864434365
+   },
+   {
+    "coordinate": {
+     "latitude": 41.33362615649095,
+     "longitude": -107.37216690258191
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 6153.335590945066
+   },
+   {
+    "coordinate": {
+     "latitude": 41.28195191976634,
+     "longitude": -107.27369631019616
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 6196.030095446695
+   },
+   {
+    "coordinate": {
+     "latitude": 41.230193909981445,
+     "longitude": -107.17538166308442
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 6238.724599948324
+   },
+   {
+    "coordinate": {
+     "latitude": 41.17835241206539,
+     "longitude": -107.07722268216831
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 6281.419104449953
+   },
+   {
+    "coordinate": {
+     "latitude": 41.126427710231134,
+     "longitude": -106.97921908713917
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 6324.113608951586
+   },
+   {
+    "coordinate": {
+     "latitude": 41.074420087974595,
+     "longitude": -106.88137059647718
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 6366.808113453217
+   },
+   {
+    "coordinate": {
+     "latitude": 41.02232982807367,
+     "longitude": -106.78367692747022
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 6409.502617954844
+   },
+   {
+    "coordinate": {
+     "latitude": 40.970157212587495,
+     "longitude": -106.68613779623263
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 6452.197122456475
+   },
+   {
+    "coordinate": {
+     "latitude": 40.91790252285555,
+     "longitude": -106.5887529177239
+    },
+    "altitudeMeters": 11000.0,
+    "elapsedSeconds": 6494.891626958106
+   },
+   {
+    "coordinate": {
+     "latitude": 40.86556603949696,
+     "longitude": -106.49152200576715
+    },
+    "altitudeMeters": 10625.868828224808,
+    "elapsedSeconds": 6550.521517717918
+   },
+   {
+    "coordinate": {
+     "latitude": 40.81314804240974,
+     "longitude": -106.39444477306749
+    },
+    "altitudeMeters": 10153.717837265584,
+    "elapsedSeconds": 6609.5403915878205
+   },
+   {
+    "coordinate": {
+     "latitude": 40.76064881077014,
+     "longitude": -106.29752093123027
+    },
+    "altitudeMeters": 9681.566846306414,
+    "elapsedSeconds": 6668.559265457717
+   },
+   {
+    "coordinate": {
+     "latitude": 40.70806862303198,
+     "longitude": -106.2007501907791
+    },
+    "altitudeMeters": 9209.415855347223,
+    "elapsedSeconds": 6727.578139327616
+   },
+   {
+    "coordinate": {
+     "latitude": 40.65540775692599,
+     "longitude": -106.10413226117396
+    },
+    "altitudeMeters": 8737.264864387966,
+    "elapsedSeconds": 6786.597013197523
+   },
+   {
+    "coordinate": {
+     "latitude": 40.60266648945936,
+     "longitude": -106.0076668508289
+    },
+    "altitudeMeters": 8265.113873428807,
+    "elapsedSeconds": 6845.615887067417
+   },
+   {
+    "coordinate": {
+     "latitude": 40.54984509691511,
+     "longitude": -105.91135366712973
+    },
+    "altitudeMeters": 7792.962882469649,
+    "elapsedSeconds": 6904.634760937312
+   },
+   {
+    "coordinate": {
+     "latitude": 40.49694385485162,
+     "longitude": -105.81519241645162
+    },
+    "altitudeMeters": 7320.811891510403,
+    "elapsedSeconds": 6963.653634807218
+   },
+   {
+    "coordinate": {
+     "latitude": 40.443963038102225,
+     "longitude": -105.71918280417654
+    },
+    "altitudeMeters": 6848.660900551212,
+    "elapsedSeconds": 7022.672508677117
+   },
+   {
+    "coordinate": {
+     "latitude": 40.390902920774664,
+     "longitude": -105.62332453471049
+    },
+    "altitudeMeters": 6376.5099095919995,
+    "elapsedSeconds": 7081.691382547018
+   },
+   {
+    "coordinate": {
+     "latitude": 40.337763776250824,
+     "longitude": -105.52761731150068
+    },
+    "altitudeMeters": 5904.358918632785,
+    "elapsedSeconds": 7140.71025641692
+   },
+   {
+    "coordinate": {
+     "latitude": 40.284545877186346,
+     "longitude": -105.43206083705253
+    },
+    "altitudeMeters": 5432.207927673606,
+    "elapsedSeconds": 7199.729130286818
+   },
+   {
+    "coordinate": {
+     "latitude": 40.23124949551028,
+     "longitude": -105.33665481294658
+    },
+    "altitudeMeters": 4960.056936714447,
+    "elapsedSeconds": 7258.748004156712
+   },
+   {
+    "coordinate": {
+     "latitude": 40.177874902424826,
+     "longitude": -105.24139893985519
+    },
+    "altitudeMeters": 4487.905945755213,
+    "elapsedSeconds": 7317.766878026617
+   },
+   {
+    "coordinate": {
+     "latitude": 40.124422368405085,
+     "longitude": -105.14629291755925
+    },
+    "altitudeMeters": 4015.7549547960325,
+    "elapsedSeconds": 7376.785751896515
+   },
+   {
+    "coordinate": {
+     "latitude": 40.07089216319888,
+     "longitude": -105.05133644496455
+    },
+    "altitudeMeters": 3543.603963836841,
+    "elapsedSeconds": 7435.804625766414
+   },
+   {
+    "coordinate": {
+     "latitude": 40.01728455582648,
+     "longitude": -104.95652922011821
+    },
+    "altitudeMeters": 3071.452972877629,
+    "elapsedSeconds": 7494.823499636315
+   },
+   {
+    "coordinate": {
+     "latitude": 39.96359981458057,
+     "longitude": -104.8618709402249
+    },
+    "altitudeMeters": 2599.3019819184265,
+    "elapsedSeconds": 7553.842373506215
+   },
+   {
+    "coordinate": {
+     "latitude": 39.90983820702604,
+     "longitude": -104.76736130166289
+    },
+    "altitudeMeters": 2127.1509909592023,
+    "elapsedSeconds": 7612.861247376119
+   },
+   {
+    "coordinate": {
+     "latitude": 39.856,
+     "longitude": -104.673
+    },
+    "altitudeMeters": 1655.0,
+    "elapsedSeconds": 7671.8801212460185
+   }
+  ]
+ },
+ "features": [
+  {
+   "id": "mt-rainier",
+   "name": "Mount Rainier",
+   "category": "volcano",
+   "coordinate": {
+    "latitude": 46.853,
+    "longitude": -121.76
+   },
+   "radiusMeters": 12000.0,
+   "salience": 1.0,
+   "summary": "A 4,392 m stratovolcano and the most heavily glaciated peak in the lower 48 states. It last erupted in the 1890s and is considered one of the most dangerous volcanoes in the United States because of the mudflows its glaciers could feed.",
+   "kidSummary": "A giant snowy volcano! It is so tall it makes its own weather.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "wikipediaTitle": "Mount Rainier",
+   "spottingTip": "Look for the lone white cone standing above everything else south-east of Seattle; it is visible from over 150 miles away on a clear day.",
+   "elevationMeters": 4392.0
+  },
+  {
+   "id": "mt-st-helens",
+   "name": "Mount St. Helens",
+   "category": "volcano",
+   "coordinate": {
+    "latitude": 46.191,
+    "longitude": -122.195
+   },
+   "radiusMeters": 8000.0,
+   "salience": 0.95,
+   "summary": "Erupted on 18 May 1980, blowing off its top 400 m and leaving the horseshoe-shaped crater open to the north. The grey blast zone and regrowing forest are still clear from the air.",
+   "kidSummary": "This volcano exploded in 1980 and lost its top. You can see the big bite out of its side.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "wikipediaTitle": "Mount St. Helens",
+   "spottingTip": "Find the flat-topped peak with a crater open on the north side, and the grey fan of the 1980 blast zone beyond it.",
+   "elevationMeters": 2549.0
+  },
+  {
+   "id": "mt-adams",
+   "name": "Mount Adams",
+   "category": "volcano",
+   "coordinate": {
+    "latitude": 46.202,
+    "longitude": -121.491
+   },
+   "radiusMeters": 8000.0,
+   "salience": 0.7,
+   "summary": "A broad 3,743 m stratovolcano, the second highest in Washington, roughly 50 km east of Mount St. Helens.",
+   "kidSummary": "Another big snowy volcano, next door to the one that exploded.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "wikipediaTitle": "Mount Adams",
+   "elevationMeters": 3743.0
+  },
+  {
+   "id": "mt-baker",
+   "name": "Mount Baker",
+   "category": "volcano",
+   "coordinate": {
+    "latitude": 48.777,
+    "longitude": -121.814
+   },
+   "radiusMeters": 8000.0,
+   "salience": 0.75,
+   "summary": "A 3,286 m volcano near the Canadian border, one of the snowiest places on Earth: a ski area on its flank recorded 29 m of snow in one winter.",
+   "kidSummary": "A volcano that gets more snow than almost anywhere in the world.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "wikipediaTitle": "Mount Baker",
+   "elevationMeters": 3286.0
+  },
+  {
+   "id": "glacier-peak",
+   "name": "Glacier Peak",
+   "category": "volcano",
+   "coordinate": {
+    "latitude": 48.112,
+    "longitude": -121.113
+   },
+   "radiusMeters": 6000.0,
+   "salience": 0.5,
+   "summary": "The most remote of Washington's volcanoes, hidden in the North Cascades, and one of the most explosive in its history.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "wikipediaTitle": "Glacier Peak",
+   "elevationMeters": 3213.0
+  },
+  {
+   "id": "seattle",
+   "name": "Seattle and Puget Sound",
+   "category": "city",
+   "coordinate": {
+    "latitude": 47.606,
+    "longitude": -122.332
+   },
+   "radiusMeters": 15000.0,
+   "salience": 0.8,
+   "summary": "Seattle sits on an isthmus between Puget Sound and Lake Washington. The Sound is a fjord system carved by the Puget lobe of the last ice age's ice sheet, which was over a kilometre thick here 17,000 years ago.",
+   "kidSummary": "A big city squeezed between the sea and a lake, with ferries going back and forth.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "wikipediaTitle": "Seattle"
+  },
+  {
+   "id": "olympics",
+   "name": "Olympic Mountains",
+   "category": "mountain",
+   "coordinate": {
+    "latitude": 47.8,
+    "longitude": -123.7
+   },
+   "radiusMeters": 40000.0,
+   "salience": 0.7,
+   "summary": "A compact range rising to 2,432 m, with temperate rainforest on the west side receiving over 3.5 m of rain a year and a rain shadow so strong that Sequim, 50 km away, gets only 40 cm.",
+   "kidSummary": "Mountains with a rainforest on one side and a dry side on the other.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "wikipediaTitle": "Olympic Mountains",
+   "elevationMeters": 2432.0
+  },
+  {
+   "id": "columbia-gorge",
+   "name": "Columbia River Gorge",
+   "category": "canyon",
+   "coordinate": {
+    "latitude": 45.7,
+    "longitude": -121.5
+   },
+   "radiusMeters": 30000.0,
+   "salience": 0.8,
+   "summary": "The only near-sea-level passage through the Cascade Range. Catastrophic floods from glacial Lake Missoula tore through here repeatedly around 15,000 years ago.",
+   "kidSummary": "A huge river cut a path right through the mountains.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "wikipediaTitle": "Columbia River Gorge",
+   "spottingTip": "Follow the wide river where it slices straight through the mountain range east of Portland."
+  },
+  {
+   "id": "hanford",
+   "name": "Hanford Site",
+   "category": "powerPlant",
+   "coordinate": {
+    "latitude": 46.55,
+    "longitude": -119.49
+   },
+   "radiusMeters": 15000.0,
+   "salience": 0.6,
+   "summary": "The plutonium production complex for the Manhattan Project and the Cold War, now the largest environmental cleanup in the United States. The nine reactor buildings line the Columbia River.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "wikipediaTitle": "Hanford Site",
+   "spottingTip": "Look for isolated large blocky buildings along a bend of the Columbia in otherwise empty shrub-steppe."
+  },
+  {
+   "id": "dry-falls",
+   "name": "Dry Falls and the Channeled Scablands",
+   "category": "canyon",
+   "coordinate": {
+    "latitude": 47.606,
+    "longitude": -119.36
+   },
+   "radiusMeters": 25000.0,
+   "salience": 0.8,
+   "summary": "A 5.6 km wide, 120 m high cliff that was once the largest waterfall on Earth, when ice-age floods ten times the flow of all the world's rivers poured across eastern Washington. The braided channels and basalt scars cover thousands of square kilometres.",
+   "kidSummary": "A waterfall ten times bigger than Niagara used to be here. Now it is dry!",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "wikipediaTitle": "Dry Falls",
+   "spottingTip": "Look for dark, scoured basalt channels braiding across the farmland, with small lakes in the old plunge pools."
+  },
+  {
+   "id": "palouse",
+   "name": "Palouse hills",
+   "category": "agriculture",
+   "coordinate": {
+    "latitude": 46.9,
+    "longitude": -117.5
+   },
+   "radiusMeters": 50000.0,
+   "salience": 0.7,
+   "summary": "Rolling dunes of wind-blown silt (loess) now farmed for wheat and lentils, giving the land a rippled, almost liquid look, especially in low sun.",
+   "kidSummary": "Farm fields rolling like waves on a green and gold sea.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "wikipediaTitle": "Palouse",
+   "spottingTip": "Best in morning or evening light when the hills throw shadows."
+  },
+  {
+   "id": "wenatchee-orchards",
+   "name": "Wenatchee Valley orchards",
+   "category": "agriculture",
+   "coordinate": {
+    "latitude": 47.42,
+    "longitude": -120.31
+   },
+   "radiusMeters": 15000.0,
+   "salience": 0.5,
+   "summary": "Apple and cherry orchards in a dry valley that would be desert without irrigation from the Columbia. Washington grows most of the apples in the United States.",
+   "kidSummary": "Where most of America's apples grow.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "wikipediaTitle": "Wenatchee, Washington"
+  },
+  {
+   "id": "lake-chelan",
+   "name": "Lake Chelan",
+   "category": "lake",
+   "coordinate": {
+    "latitude": 48.0,
+    "longitude": -120.35
+   },
+   "radiusMeters": 20000.0,
+   "salience": 0.6,
+   "summary": "A glacial trough lake 80 km long and only 2 km wide, the third deepest in the United States at 453 m.",
+   "kidSummary": "A skinny lake carved out by a glacier, super deep.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "wikipediaTitle": "Lake Chelan"
+  },
+  {
+   "id": "hells-canyon",
+   "name": "Hells Canyon",
+   "category": "canyon",
+   "coordinate": {
+    "latitude": 45.4,
+    "longitude": -116.7
+   },
+   "radiusMeters": 30000.0,
+   "salience": 0.8,
+   "summary": "The deepest river gorge in North America, 2,400 m from rim to river where the Snake River separates Oregon and Idaho, deeper than the Grand Canyon.",
+   "kidSummary": "A canyon even deeper than the Grand Canyon.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "wikipediaTitle": "Hells Canyon",
+   "spottingTip": "A dark, steep-walled slot with the Snake River at the bottom, right on the Oregon-Idaho line."
+  },
+  {
+   "id": "wallowa",
+   "name": "Wallowa Mountains",
+   "category": "mountain",
+   "coordinate": {
+    "latitude": 45.2,
+    "longitude": -117.3
+   },
+   "radiusMeters": 25000.0,
+   "salience": 0.5,
+   "summary": "Granite peaks nicknamed the Alps of Oregon, with glacial lakes at their feet.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "wikipediaTitle": "Wallowa Mountains",
+   "elevationMeters": 2999.0
+  },
+  {
+   "id": "snake-plain-pivots",
+   "name": "Snake River Plain irrigation",
+   "category": "irrigation",
+   "coordinate": {
+    "latitude": 42.9,
+    "longitude": -114.6
+   },
+   "radiusMeters": 60000.0,
+   "salience": 0.75,
+   "summary": "Thousands of center-pivot irrigation circles on the volcanic plain of southern Idaho, watered from the Snake River and the aquifer beneath the lava. A sprinkler arm up to 400 m long rotates around a central well once every day or two, which is why the fields are round.",
+   "kidSummary": "Those green circles are giant fields watered by a sprinkler that spins around like a clock hand.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "wikipediaTitle": "Center pivot irrigation",
+   "spottingTip": "Green circles on brown lava are unmistakable. Half-circles mark where the arm is blocked by a road."
+  },
+  {
+   "id": "craters-moon",
+   "name": "Craters of the Moon",
+   "category": "volcano",
+   "coordinate": {
+    "latitude": 43.42,
+    "longitude": -113.52
+   },
+   "radiusMeters": 25000.0,
+   "salience": 0.85,
+   "summary": "A black lava field of 1,600 square kilometres from eruptions as recent as 2,000 years ago along the Great Rift. Astronauts trained here for the Moon landings.",
+   "kidSummary": "A field of black lava so strange that astronauts practised here before going to the Moon.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "wikipediaTitle": "Craters of the Moon National Monument and Preserve",
+   "spottingTip": "A large black stain on the pale plain north of the irrigation circles."
+  },
+  {
+   "id": "sawtooth",
+   "name": "Sawtooth Range",
+   "category": "mountain",
+   "coordinate": {
+    "latitude": 44.1,
+    "longitude": -114.9
+   },
+   "radiusMeters": 30000.0,
+   "salience": 0.6,
+   "summary": "Jagged granite peaks of central Idaho, part of the largest wilderness area in the lower 48 states.",
+   "kidSummary": "Pointy mountains like the teeth of a saw.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "wikipediaTitle": "Sawtooth Range (Idaho)",
+   "elevationMeters": 3277.0
+  },
+  {
+   "id": "yellowstone",
+   "name": "Yellowstone",
+   "category": "volcano",
+   "coordinate": {
+    "latitude": 44.43,
+    "longitude": -110.59
+   },
+   "radiusMeters": 50000.0,
+   "salience": 1.0,
+   "summary": "The world's first national park sits on a supervolcano caldera 55 by 72 km across. Half the world's geysers are here. Yellowstone Lake fills part of the caldera; steam from the geyser basins is sometimes visible from cruise altitude on cold mornings.",
+   "kidSummary": "A giant sleeping volcano with hot springs and geysers that shoot boiling water into the air.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "wikipediaTitle": "Yellowstone National Park",
+   "spottingTip": "Look for a large lake at high elevation ringed by forest, with pale, treeless geyser basins to its west.",
+   "elevationMeters": 2357.0
+  },
+  {
+   "id": "grand-teton",
+   "name": "Grand Teton and Jackson Hole",
+   "category": "mountain",
+   "coordinate": {
+    "latitude": 43.741,
+    "longitude": -110.802
+   },
+   "radiusMeters": 20000.0,
+   "salience": 0.95,
+   "summary": "The Tetons rise 2,100 m straight out of the valley floor with no foothills, along a fault that is still active. Jackson Lake lies at their feet.",
+   "kidSummary": "Mountains that shoot straight up out of flat ground like a wall.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "wikipediaTitle": "Grand Teton",
+   "spottingTip": "A sharp wall of grey peaks with a long lake directly at its base.",
+   "elevationMeters": 4199.0
+  },
+  {
+   "id": "wind-river",
+   "name": "Wind River Range",
+   "category": "glacier",
+   "coordinate": {
+    "latitude": 43.0,
+    "longitude": -109.6
+   },
+   "radiusMeters": 40000.0,
+   "salience": 0.6,
+   "summary": "Wyoming's highest range, holding the largest glaciers in the US Rockies, and the Continental Divide along its crest.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "wikipediaTitle": "Wind River Range",
+   "elevationMeters": 4209.0
+  },
+  {
+   "id": "flaming-gorge",
+   "name": "Flaming Gorge Reservoir",
+   "category": "reservoirDam",
+   "coordinate": {
+    "latitude": 41.0,
+    "longitude": -109.5
+   },
+   "radiusMeters": 20000.0,
+   "salience": 0.6,
+   "summary": "A 146 km reservoir on the Green River behind a 150 m dam, named by John Wesley Powell in 1869 for its red cliffs.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "wikipediaTitle": "Flaming Gorge Reservoir"
+  },
+  {
+   "id": "dinosaur-nm",
+   "name": "Dinosaur National Monument",
+   "category": "historicSite",
+   "coordinate": {
+    "latitude": 40.5,
+    "longitude": -108.95
+   },
+   "radiusMeters": 15000.0,
+   "salience": 0.5,
+   "summary": "Canyons of the Green and Yampa rivers through upturned rock layers, famous for a quarry wall of Jurassic dinosaur bones.",
+   "kidSummary": "Dinosaur bones are stuck in the rocks down there.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "wikipediaTitle": "Dinosaur National Monument"
+  },
+  {
+   "id": "rmnp",
+   "name": "Rocky Mountain National Park and Longs Peak",
+   "category": "mountain",
+   "coordinate": {
+    "latitude": 40.255,
+    "longitude": -105.615
+   },
+   "radiusMeters": 20000.0,
+   "salience": 0.85,
+   "summary": "Longs Peak at 4,346 m anchors the park. Trail Ridge Road climbs above 3,700 m. The Continental Divide runs through the park: water on one side goes to the Pacific, on the other to the Atlantic.",
+   "kidSummary": "Rain that falls on one side of these mountains ends up in the Pacific, on the other side in the Atlantic.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "wikipediaTitle": "Rocky Mountain National Park",
+   "elevationMeters": 4346.0
+  },
+  {
+   "id": "denver",
+   "name": "Denver",
+   "category": "city",
+   "coordinate": {
+    "latitude": 39.739,
+    "longitude": -104.99
+   },
+   "radiusMeters": 15000.0,
+   "salience": 0.7,
+   "summary": "The Mile High City sits where the Great Plains meet the Rocky Mountain Front. From the east, the mountains appear as a wall behind the city.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "wikipediaTitle": "Denver",
+   "elevationMeters": 1609.0
+  },
+  {
+   "id": "dia",
+   "name": "Denver International Airport",
+   "category": "airport",
+   "coordinate": {
+    "latitude": 39.856,
+    "longitude": -104.673
+   },
+   "radiusMeters": 6000.0,
+   "salience": 0.5,
+   "summary": "The largest airport in the United States by area, bigger than Manhattan, with its tent-like white roof meant to echo the peaks.",
+   "kidSummary": "An airport bigger than the whole island of Manhattan, with a roof like a row of tents.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "wikipediaTitle": "Denver International Airport",
+   "elevationMeters": 1655.0
+  },
+  {
+   "id": "pikes-peak",
+   "name": "Pikes Peak",
+   "category": "mountain",
+   "coordinate": {
+    "latitude": 38.841,
+    "longitude": -105.044
+   },
+   "radiusMeters": 8000.0,
+   "salience": 0.7,
+   "summary": "A 4,302 m peak that inspired the song America the Beautiful. A cog railway and a road go to the top.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "wikipediaTitle": "Pikes Peak",
+   "elevationMeters": 4302.0
+  }
+ ],
+ "lines": [
+  {
+   "id": "us-canada-49",
+   "name": "United States-Canada border (49th parallel)",
+   "category": "border",
+   "points": [
+    {
+     "latitude": 49.0,
+     "longitude": -123.32
+    },
+    {
+     "latitude": 49.0,
+     "longitude": -95.15
+    }
+   ],
+   "summary": "The longest straight international border in the world, 2,000 km along the 49th parallel from the Pacific to Lake of the Woods, agreed in 1818 and 1846. A cleared strip 6 m wide marks it through forest.",
+   "kidSummary": "The line between the United States and Canada. It runs perfectly straight for 1,200 miles.",
+   "leftRegion": "Canada",
+   "rightRegion": "United States"
+  },
+  {
+   "id": "wa-or",
+   "name": "Washington-Oregon border",
+   "category": "border",
+   "points": [
+    {
+     "latitude": 46.25,
+     "longitude": -124.05
+    },
+    {
+     "latitude": 46.15,
+     "longitude": -123.3
+    },
+    {
+     "latitude": 45.65,
+     "longitude": -122.75
+    },
+    {
+     "latitude": 45.7,
+     "longitude": -121.5
+    },
+    {
+     "latitude": 45.95,
+     "longitude": -119.3
+    },
+    {
+     "latitude": 46.0,
+     "longitude": -119.0
+    },
+    {
+     "latitude": 46.0,
+     "longitude": -116.92
+    }
+   ],
+   "summary": "Follows the Columbia River from the Pacific to near Wallula Gap, then runs straight east along 46 degrees north to Idaho.",
+   "kidSummary": "Washington is on one side of this big river, Oregon on the other.",
+   "leftRegion": "Washington",
+   "rightRegion": "Oregon"
+  },
+  {
+   "id": "wa-id",
+   "name": "Washington-Idaho border",
+   "category": "border",
+   "points": [
+    {
+     "latitude": 46.0,
+     "longitude": -117.04
+    },
+    {
+     "latitude": 49.0,
+     "longitude": -117.04
+    }
+   ],
+   "summary": "A straight meridian line fixed in 1863.",
+   "leftRegion": "Idaho",
+   "rightRegion": "Washington"
+  },
+  {
+   "id": "or-id",
+   "name": "Oregon-Idaho border",
+   "category": "border",
+   "points": [
+    {
+     "latitude": 42.0,
+     "longitude": -117.03
+    },
+    {
+     "latitude": 44.0,
+     "longitude": -117.03
+    },
+    {
+     "latitude": 44.4,
+     "longitude": -117.2
+    },
+    {
+     "latitude": 45.6,
+     "longitude": -116.5
+    },
+    {
+     "latitude": 46.0,
+     "longitude": -116.92
+    }
+   ],
+   "summary": "Straight along a meridian in the south, then follows the Snake River north through Hells Canyon.",
+   "leftRegion": "Idaho",
+   "rightRegion": "Oregon"
+  },
+  {
+   "id": "id-mt",
+   "name": "Idaho-Montana border",
+   "category": "border",
+   "points": [
+    {
+     "latitude": 49.0,
+     "longitude": -116.05
+    },
+    {
+     "latitude": 47.95,
+     "longitude": -116.05
+    },
+    {
+     "latitude": 47.0,
+     "longitude": -115.0
+    },
+    {
+     "latitude": 46.6,
+     "longitude": -114.3
+    },
+    {
+     "latitude": 45.7,
+     "longitude": -114.5
+    },
+    {
+     "latitude": 45.5,
+     "longitude": -114.0
+    },
+    {
+     "latitude": 44.5,
+     "longitude": -112.9
+    },
+    {
+     "latitude": 44.5,
+     "longitude": -111.4
+    },
+    {
+     "latitude": 44.5,
+     "longitude": -111.05
+    }
+   ],
+   "summary": "Follows the Bitterroot crest and the Continental Divide for most of its length, then the 44.5 parallel to Yellowstone.",
+   "leftRegion": "Idaho",
+   "rightRegion": "Montana"
+  },
+  {
+   "id": "id-wy",
+   "name": "Idaho-Wyoming border",
+   "category": "border",
+   "points": [
+    {
+     "latitude": 44.5,
+     "longitude": -111.05
+    },
+    {
+     "latitude": 42.0,
+     "longitude": -111.05
+    }
+   ],
+   "summary": "A straight meridian line.",
+   "leftRegion": "Wyoming",
+   "rightRegion": "Idaho"
+  },
+  {
+   "id": "mt-wy",
+   "name": "Montana-Wyoming border",
+   "category": "border",
+   "points": [
+    {
+     "latitude": 45.0,
+     "longitude": -111.05
+    },
+    {
+     "latitude": 45.0,
+     "longitude": -104.05
+    }
+   ],
+   "summary": "The 45th parallel, halfway between the equator and the North Pole.",
+   "kidSummary": "You are exactly halfway between the equator and the North Pole here.",
+   "leftRegion": "Wyoming",
+   "rightRegion": "Montana"
+  },
+  {
+   "id": "wy-ut-co",
+   "name": "Wyoming south border",
+   "category": "border",
+   "points": [
+    {
+     "latitude": 41.0,
+     "longitude": -111.05
+    },
+    {
+     "latitude": 41.0,
+     "longitude": -104.05
+    }
+   ],
+   "summary": "The 41st parallel separates Wyoming from Utah and Colorado. Wyoming is one of only two rectangular states.",
+   "leftRegion": "Utah / Colorado",
+   "rightRegion": "Wyoming"
+  },
+  {
+   "id": "wy-east",
+   "name": "Wyoming-South Dakota/Nebraska border",
+   "category": "border",
+   "points": [
+    {
+     "latitude": 45.0,
+     "longitude": -104.05
+    },
+    {
+     "latitude": 41.0,
+     "longitude": -104.05
+    }
+   ],
+   "summary": "A straight meridian line.",
+   "leftRegion": "Wyoming",
+   "rightRegion": "South Dakota / Nebraska"
+  },
+  {
+   "id": "ut-co",
+   "name": "Utah-Colorado border",
+   "category": "border",
+   "points": [
+    {
+     "latitude": 41.0,
+     "longitude": -109.05
+    },
+    {
+     "latitude": 37.0,
+     "longitude": -109.05
+    }
+   ],
+   "summary": "A straight meridian line, with a small surveying kink near the middle that is too small to see.",
+   "leftRegion": "Colorado",
+   "rightRegion": "Utah"
+  },
+  {
+   "id": "ut-id-nv",
+   "name": "Utah and Nevada north border",
+   "category": "border",
+   "points": [
+    {
+     "latitude": 42.0,
+     "longitude": -120.0
+    },
+    {
+     "latitude": 42.0,
+     "longitude": -111.05
+    }
+   ],
+   "summary": "The 42nd parallel runs from California to Wyoming, separating Oregon and Idaho from Nevada and Utah.",
+   "leftRegion": "Oregon / Idaho",
+   "rightRegion": "California / Nevada / Utah"
+  },
+  {
+   "id": "ut-nv",
+   "name": "Utah-Nevada border",
+   "category": "border",
+   "points": [
+    {
+     "latitude": 42.0,
+     "longitude": -114.05
+    },
+    {
+     "latitude": 37.0,
+     "longitude": -114.05
+    }
+   ],
+   "summary": "A straight meridian line across the Great Basin.",
+   "leftRegion": "Utah",
+   "rightRegion": "Nevada"
+  },
+  {
+   "id": "ca-nv",
+   "name": "California-Nevada border",
+   "category": "border",
+   "points": [
+    {
+     "latitude": 42.0,
+     "longitude": -120.0
+    },
+    {
+     "latitude": 39.0,
+     "longitude": -120.0
+    },
+    {
+     "latitude": 35.0,
+     "longitude": -114.63
+    }
+   ],
+   "summary": "Straight south along a meridian to Lake Tahoe, then a diagonal to the Colorado River, agreed in 1850.",
+   "leftRegion": "Nevada",
+   "rightRegion": "California"
+  },
+  {
+   "id": "mt-nd-sd",
+   "name": "Montana east border",
+   "category": "border",
+   "points": [
+    {
+     "latitude": 49.0,
+     "longitude": -104.05
+    },
+    {
+     "latitude": 45.0,
+     "longitude": -104.05
+    }
+   ],
+   "summary": "A straight meridian line.",
+   "leftRegion": "Montana",
+   "rightRegion": "North Dakota / South Dakota"
+  },
+  {
+   "id": "nd-sd",
+   "name": "North Dakota-South Dakota border",
+   "category": "border",
+   "points": [
+    {
+     "latitude": 45.94,
+     "longitude": -104.05
+    },
+    {
+     "latitude": 45.94,
+     "longitude": -96.56
+    }
+   ],
+   "summary": "A straight parallel line.",
+   "leftRegion": "North Dakota",
+   "rightRegion": "South Dakota"
+  },
+  {
+   "id": "continental-divide",
+   "name": "Continental Divide",
+   "category": "border",
+   "points": [
+    {
+     "latitude": 49.0,
+     "longitude": -114.05
+    },
+    {
+     "latitude": 48.3,
+     "longitude": -113.4
+    },
+    {
+     "latitude": 47.6,
+     "longitude": -112.6
+    },
+    {
+     "latitude": 47.1,
+     "longitude": -112.4
+    },
+    {
+     "latitude": 46.6,
+     "longitude": -112.3
+    },
+    {
+     "latitude": 45.9,
+     "longitude": -112.4
+    },
+    {
+     "latitude": 45.7,
+     "longitude": -113.9
+    },
+    {
+     "latitude": 44.97,
+     "longitude": -113.44
+    },
+    {
+     "latitude": 44.56,
+     "longitude": -112.3
+    },
+    {
+     "latitude": 44.4,
+     "longitude": -111.4
+    },
+    {
+     "latitude": 44.4,
+     "longitude": -110.8
+    },
+    {
+     "latitude": 43.75,
+     "longitude": -110.06
+    },
+    {
+     "latitude": 43.5,
+     "longitude": -109.9
+    },
+    {
+     "latitude": 42.95,
+     "longitude": -109.3
+    },
+    {
+     "latitude": 42.35,
+     "longitude": -108.9
+    },
+    {
+     "latitude": 41.8,
+     "longitude": -107.6
+    },
+    {
+     "latitude": 41.4,
+     "longitude": -107.5
+    },
+    {
+     "latitude": 41.0,
+     "longitude": -106.8
+    },
+    {
+     "latitude": 40.38,
+     "longitude": -106.6
+    },
+    {
+     "latitude": 40.0,
+     "longitude": -105.9
+    },
+    {
+     "latitude": 39.8,
+     "longitude": -105.78
+    },
+    {
+     "latitude": 39.66,
+     "longitude": -105.88
+    },
+    {
+     "latitude": 39.36,
+     "longitude": -106.06
+    },
+    {
+     "latitude": 38.5,
+     "longitude": -106.33
+    },
+    {
+     "latitude": 37.8,
+     "longitude": -107.5
+    },
+    {
+     "latitude": 37.48,
+     "longitude": -106.8
+    },
+    {
+     "latitude": 37.0,
+     "longitude": -106.45
+    },
+    {
+     "latitude": 36.5,
+     "longitude": -106.5
+    },
+    {
+     "latitude": 35.9,
+     "longitude": -106.7
+    },
+    {
+     "latitude": 35.0,
+     "longitude": -107.5
+    },
+    {
+     "latitude": 34.0,
+     "longitude": -108.1
+    },
+    {
+     "latitude": 32.5,
+     "longitude": -108.6
+    },
+    {
+     "latitude": 31.8,
+     "longitude": -108.5
+    }
+   ],
+   "summary": "The crest that divides water flowing to the Pacific from water flowing to the Atlantic and the Gulf of Mexico. It is not a line of highest peaks: in Wyoming's Great Divide Basin it splits around a basin that drains to neither ocean.",
+   "kidSummary": "Rain that lands on one side of this line flows to the Pacific Ocean; on the other side it flows all the way to the Atlantic.",
+   "leftRegion": "Pacific drainage",
+   "rightRegion": "Atlantic drainage"
+  },
+  {
+   "id": "columbia-river",
+   "name": "Columbia River",
+   "category": "river",
+   "points": [
+    {
+     "latitude": 49.0,
+     "longitude": -117.6
+    },
+    {
+     "latitude": 48.6,
+     "longitude": -118.1
+    },
+    {
+     "latitude": 47.96,
+     "longitude": -118.98
+    },
+    {
+     "latitude": 47.6,
+     "longitude": -119.9
+    },
+    {
+     "latitude": 47.4,
+     "longitude": -120.3
+    },
+    {
+     "latitude": 46.6,
+     "longitude": -119.9
+    },
+    {
+     "latitude": 46.25,
+     "longitude": -119.1
+    },
+    {
+     "latitude": 46.0,
+     "longitude": -118.95
+    },
+    {
+     "latitude": 45.7,
+     "longitude": -120.7
+    },
+    {
+     "latitude": 45.65,
+     "longitude": -121.9
+    },
+    {
+     "latitude": 45.6,
+     "longitude": -122.4
+    },
+    {
+     "latitude": 46.1,
+     "longitude": -123.1
+    },
+    {
+     "latitude": 46.25,
+     "longitude": -124.05
+    }
+   ],
+   "summary": "The largest river flowing into the Pacific from North America, with 14 dams on its main stem. Its hydropower made the aluminium for Second World War aircraft and the plutonium at Hanford.",
+   "kidSummary": "A giant river that makes electricity at fourteen dams on its way to the sea."
+  },
+  {
+   "id": "snake-river",
+   "name": "Snake River",
+   "category": "river",
+   "points": [
+    {
+     "latitude": 44.1,
+     "longitude": -110.7
+    },
+    {
+     "latitude": 43.5,
+     "longitude": -110.8
+    },
+    {
+     "latitude": 43.0,
+     "longitude": -111.4
+    },
+    {
+     "latitude": 42.9,
+     "longitude": -112.5
+    },
+    {
+     "latitude": 42.6,
+     "longitude": -114.4
+    },
+    {
+     "latitude": 43.6,
+     "longitude": -116.9
+    },
+    {
+     "latitude": 44.4,
+     "longitude": -117.2
+    },
+    {
+     "latitude": 45.6,
+     "longitude": -116.5
+    },
+    {
+     "latitude": 46.2,
+     "longitude": -119.0
+    }
+   ],
+   "summary": "A 1,735 km tributary of the Columbia, rising in Yellowstone and carving Hells Canyon on its way to Washington.",
+   "kidSummary": "A river that starts in Yellowstone and carves the deepest canyon in North America."
+  },
+  {
+   "id": "missouri-river",
+   "name": "Missouri River",
+   "category": "river",
+   "points": [
+    {
+     "latitude": 45.9,
+     "longitude": -111.5
+    },
+    {
+     "latitude": 47.5,
+     "longitude": -111.3
+    },
+    {
+     "latitude": 47.8,
+     "longitude": -108.0
+    },
+    {
+     "latitude": 47.8,
+     "longitude": -106.5
+    },
+    {
+     "latitude": 48.0,
+     "longitude": -104.0
+    },
+    {
+     "latitude": 47.3,
+     "longitude": -101.5
+    },
+    {
+     "latitude": 46.0,
+     "longitude": -100.7
+    },
+    {
+     "latitude": 44.4,
+     "longitude": -100.3
+    },
+    {
+     "latitude": 42.9,
+     "longitude": -97.4
+    },
+    {
+     "latitude": 41.3,
+     "longitude": -95.9
+    },
+    {
+     "latitude": 39.1,
+     "longitude": -94.6
+    },
+    {
+     "latitude": 38.8,
+     "longitude": -90.2
+    }
+   ],
+   "summary": "The longest river in North America at 3,767 km, from the Rockies in Montana to the Mississippi at St. Louis.",
+   "kidSummary": "The longest river in North America, nicknamed the Big Muddy."
+  },
+  {
+   "id": "colorado-river",
+   "name": "Colorado River",
+   "category": "river",
+   "points": [
+    {
+     "latitude": 40.3,
+     "longitude": -105.8
+    },
+    {
+     "latitude": 39.6,
+     "longitude": -107.3
+    },
+    {
+     "latitude": 39.1,
+     "longitude": -108.7
+    },
+    {
+     "latitude": 38.6,
+     "longitude": -109.6
+    },
+    {
+     "latitude": 37.0,
+     "longitude": -111.5
+    },
+    {
+     "latitude": 36.1,
+     "longitude": -112.1
+    },
+    {
+     "latitude": 36.0,
+     "longitude": -114.7
+    },
+    {
+     "latitude": 34.3,
+     "longitude": -114.2
+    },
+    {
+     "latitude": 32.7,
+     "longitude": -114.7
+    }
+   ],
+   "summary": "Carved the Grand Canyon and now barely reaches the sea; nearly all its water is taken for cities and farms.",
+   "kidSummary": "The river that cut the Grand Canyon."
+  }
+ ],
+ "clouds": [
+  {
+   "elapsedSeconds": 0.0,
+   "cloudFraction": 0.8
+  },
+  {
+   "elapsedSeconds": 767.1880121246019,
+   "cloudFraction": 0.6
+  },
+  {
+   "elapsedSeconds": 1917.9700303115046,
+   "cloudFraction": 0.2
+  },
+  {
+   "elapsedSeconds": 3835.9400606230092,
+   "cloudFraction": 0.1
+  },
+  {
+   "elapsedSeconds": 5370.316084872213,
+   "cloudFraction": 0.3
+  },
+  {
+   "elapsedSeconds": 6521.098103059116,
+   "cloudFraction": 0.5
+  },
+  {
+   "elapsedSeconds": 7671.8801212460185,
+   "cloudFraction": 0.2
+  }
+ ],
+ "turbulence": [
+  {
+   "elapsedSeconds": 383.59400606230093,
+   "level": "light",
+   "cause": "lowLevel"
+  },
+  {
+   "elapsedSeconds": 3068.7520484984075,
+   "level": "smooth",
+   "cause": "unknown"
+  },
+  {
+   "elapsedSeconds": 6137.504096996815,
+   "level": "moderate",
+   "cause": "mountainWave"
+  },
+  {
+   "elapsedSeconds": 7288.286115183717,
+   "level": "light",
+   "cause": "lowLevel"
+  }
+ ],
+ "generatedAt": "2026-10-27T20:10:16Z",
+ "notes": [
+  "Route is the great-circle path between the airports; real routes deviate by up to a few hundred kilometres for weather and traffic.",
+  "27 points of interest and 20 borders and rivers within 150 km of the route.",
+  "Points of interest are from the curated bootstrap set; coordinates are approximate to a few kilometres.",
+  "Sample bundle built into the app. Cloud and turbulence values are illustrative."
+ ]
+}

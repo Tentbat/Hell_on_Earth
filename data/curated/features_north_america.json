@@ -1,0 +1,1451 @@
+{
+ "features": [
+  {
+   "id": "mt-rainier",
+   "name": "Mount Rainier",
+   "category": "volcano",
+   "coordinate": {
+    "latitude": 46.853,
+    "longitude": -121.76
+   },
+   "radiusMeters": 12000,
+   "salience": 1.0,
+   "summary": "A 4,392 m stratovolcano and the most heavily glaciated peak in the lower 48 states. It last erupted in the 1890s and is considered one of the most dangerous volcanoes in the United States because of the mudflows its glaciers could feed.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "A giant snowy volcano! It is so tall it makes its own weather.",
+   "spottingTip": "Look for the lone white cone standing above everything else south-east of Seattle; it is visible from over 150 miles away on a clear day.",
+   "elevationMeters": 4392,
+   "wikipediaTitle": "Mount Rainier"
+  },
+  {
+   "id": "mt-st-helens",
+   "name": "Mount St. Helens",
+   "category": "volcano",
+   "coordinate": {
+    "latitude": 46.191,
+    "longitude": -122.195
+   },
+   "radiusMeters": 8000,
+   "salience": 0.95,
+   "summary": "Erupted on 18 May 1980, blowing off its top 400 m and leaving the horseshoe-shaped crater open to the north. The grey blast zone and regrowing forest are still clear from the air.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "This volcano exploded in 1980 and lost its top. You can see the big bite out of its side.",
+   "spottingTip": "Find the flat-topped peak with a crater open on the north side, and the grey fan of the 1980 blast zone beyond it.",
+   "elevationMeters": 2549,
+   "wikipediaTitle": "Mount St. Helens"
+  },
+  {
+   "id": "mt-adams",
+   "name": "Mount Adams",
+   "category": "volcano",
+   "coordinate": {
+    "latitude": 46.202,
+    "longitude": -121.491
+   },
+   "radiusMeters": 8000,
+   "salience": 0.7,
+   "summary": "A broad 3,743 m stratovolcano, the second highest in Washington, roughly 50 km east of Mount St. Helens.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "Another big snowy volcano, next door to the one that exploded.",
+   "elevationMeters": 3743,
+   "wikipediaTitle": "Mount Adams"
+  },
+  {
+   "id": "mt-hood",
+   "name": "Mount Hood",
+   "category": "volcano",
+   "coordinate": {
+    "latitude": 45.374,
+    "longitude": -121.696
+   },
+   "radiusMeters": 8000,
+   "salience": 0.85,
+   "summary": "Oregon's highest peak at 3,429 m, a stratovolcano with twelve named glaciers, about 80 km east of Portland.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "Oregon's tallest mountain is a volcano with a pointy snowy top.",
+   "elevationMeters": 3429,
+   "wikipediaTitle": "Mount Hood"
+  },
+  {
+   "id": "mt-baker",
+   "name": "Mount Baker",
+   "category": "volcano",
+   "coordinate": {
+    "latitude": 48.777,
+    "longitude": -121.814
+   },
+   "radiusMeters": 8000,
+   "salience": 0.75,
+   "summary": "A 3,286 m volcano near the Canadian border, one of the snowiest places on Earth: a ski area on its flank recorded 29 m of snow in one winter.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "A volcano that gets more snow than almost anywhere in the world.",
+   "elevationMeters": 3286,
+   "wikipediaTitle": "Mount Baker"
+  },
+  {
+   "id": "glacier-peak",
+   "name": "Glacier Peak",
+   "category": "volcano",
+   "coordinate": {
+    "latitude": 48.112,
+    "longitude": -121.113
+   },
+   "radiusMeters": 6000,
+   "salience": 0.5,
+   "summary": "The most remote of Washington's volcanoes, hidden in the North Cascades, and one of the most explosive in its history.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "elevationMeters": 3213,
+   "wikipediaTitle": "Glacier Peak"
+  },
+  {
+   "id": "mt-jefferson",
+   "name": "Mount Jefferson",
+   "category": "volcano",
+   "coordinate": {
+    "latitude": 44.674,
+    "longitude": -121.8
+   },
+   "radiusMeters": 6000,
+   "salience": 0.6,
+   "summary": "Oregon's second highest peak, a sharp-pointed stratovolcano in the central Cascades.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "elevationMeters": 3199,
+   "wikipediaTitle": "Mount Jefferson"
+  },
+  {
+   "id": "three-sisters",
+   "name": "Three Sisters",
+   "category": "volcano",
+   "coordinate": {
+    "latitude": 44.103,
+    "longitude": -121.769
+   },
+   "radiusMeters": 10000,
+   "salience": 0.7,
+   "summary": "Three closely spaced volcanoes over 3,000 m. The ground near South Sister was found to be bulging upward a few centimetres a year in the late 1990s, a sign of magma moving below.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "Three volcano sisters standing in a row!",
+   "elevationMeters": 3157,
+   "wikipediaTitle": "Three Sisters (Oregon)"
+  },
+  {
+   "id": "crater-lake",
+   "name": "Crater Lake",
+   "category": "volcano",
+   "coordinate": {
+    "latitude": 42.94,
+    "longitude": -122.11
+   },
+   "radiusMeters": 8000,
+   "salience": 0.95,
+   "summary": "The caldera of Mount Mazama, which collapsed in a huge eruption about 7,700 years ago. The lake is 594 m deep, the deepest in the United States, and intensely blue because it is fed only by rain and snow.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "A volcano blew its top and the hole filled with the bluest water you have ever seen.",
+   "spottingTip": "A perfectly round, dark-blue lake with a small island (Wizard Island) near the west shore.",
+   "elevationMeters": 1883,
+   "wikipediaTitle": "Crater Lake"
+  },
+  {
+   "id": "seattle",
+   "name": "Seattle and Puget Sound",
+   "category": "city",
+   "coordinate": {
+    "latitude": 47.606,
+    "longitude": -122.332
+   },
+   "radiusMeters": 15000,
+   "salience": 0.8,
+   "summary": "Seattle sits on an isthmus between Puget Sound and Lake Washington. The Sound is a fjord system carved by the Puget lobe of the last ice age's ice sheet, which was over a kilometre thick here 17,000 years ago.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "A big city squeezed between the sea and a lake, with ferries going back and forth.",
+   "wikipediaTitle": "Seattle"
+  },
+  {
+   "id": "olympics",
+   "name": "Olympic Mountains",
+   "category": "mountain",
+   "coordinate": {
+    "latitude": 47.8,
+    "longitude": -123.7
+   },
+   "radiusMeters": 40000,
+   "salience": 0.7,
+   "summary": "A compact range rising to 2,432 m, with temperate rainforest on the west side receiving over 3.5 m of rain a year and a rain shadow so strong that Sequim, 50 km away, gets only 40 cm.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "Mountains with a rainforest on one side and a dry side on the other.",
+   "elevationMeters": 2432,
+   "wikipediaTitle": "Olympic Mountains"
+  },
+  {
+   "id": "columbia-gorge",
+   "name": "Columbia River Gorge",
+   "category": "canyon",
+   "coordinate": {
+    "latitude": 45.7,
+    "longitude": -121.5
+   },
+   "radiusMeters": 30000,
+   "salience": 0.8,
+   "summary": "The only near-sea-level passage through the Cascade Range. Catastrophic floods from glacial Lake Missoula tore through here repeatedly around 15,000 years ago.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "A huge river cut a path right through the mountains.",
+   "spottingTip": "Follow the wide river where it slices straight through the mountain range east of Portland.",
+   "wikipediaTitle": "Columbia River Gorge"
+  },
+  {
+   "id": "hanford",
+   "name": "Hanford Site",
+   "category": "powerPlant",
+   "coordinate": {
+    "latitude": 46.55,
+    "longitude": -119.49
+   },
+   "radiusMeters": 15000,
+   "salience": 0.6,
+   "summary": "The plutonium production complex for the Manhattan Project and the Cold War, now the largest environmental cleanup in the United States. The nine reactor buildings line the Columbia River.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "spottingTip": "Look for isolated large blocky buildings along a bend of the Columbia in otherwise empty shrub-steppe.",
+   "wikipediaTitle": "Hanford Site"
+  },
+  {
+   "id": "grand-coulee",
+   "name": "Grand Coulee Dam",
+   "category": "reservoirDam",
+   "coordinate": {
+    "latitude": 47.956,
+    "longitude": -118.981
+   },
+   "radiusMeters": 4000,
+   "salience": 0.85,
+   "summary": "The largest power station in the United States and the largest concrete structure in the country, holding back 240 km of Lake Roosevelt. Built in the 1930s and 40s.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "One of the biggest dams in the whole world, holding back a lake 150 miles long.",
+   "spottingTip": "A straight grey line across the river with a long, narrow lake stretching north-east behind it.",
+   "wikipediaTitle": "Grand Coulee Dam"
+  },
+  {
+   "id": "dry-falls",
+   "name": "Dry Falls and the Channeled Scablands",
+   "category": "canyon",
+   "coordinate": {
+    "latitude": 47.606,
+    "longitude": -119.36
+   },
+   "radiusMeters": 25000,
+   "salience": 0.8,
+   "summary": "A 5.6 km wide, 120 m high cliff that was once the largest waterfall on Earth, when ice-age floods ten times the flow of all the world's rivers poured across eastern Washington. The braided channels and basalt scars cover thousands of square kilometres.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "A waterfall ten times bigger than Niagara used to be here. Now it is dry!",
+   "spottingTip": "Look for dark, scoured basalt channels braiding across the farmland, with small lakes in the old plunge pools.",
+   "wikipediaTitle": "Dry Falls"
+  },
+  {
+   "id": "palouse",
+   "name": "Palouse hills",
+   "category": "agriculture",
+   "coordinate": {
+    "latitude": 46.9,
+    "longitude": -117.5
+   },
+   "radiusMeters": 50000,
+   "salience": 0.7,
+   "summary": "Rolling dunes of wind-blown silt (loess) now farmed for wheat and lentils, giving the land a rippled, almost liquid look, especially in low sun.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "Farm fields rolling like waves on a green and gold sea.",
+   "spottingTip": "Best in morning or evening light when the hills throw shadows.",
+   "wikipediaTitle": "Palouse"
+  },
+  {
+   "id": "wenatchee-orchards",
+   "name": "Wenatchee Valley orchards",
+   "category": "agriculture",
+   "coordinate": {
+    "latitude": 47.42,
+    "longitude": -120.31
+   },
+   "radiusMeters": 15000,
+   "salience": 0.5,
+   "summary": "Apple and cherry orchards in a dry valley that would be desert without irrigation from the Columbia. Washington grows most of the apples in the United States.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "Where most of America's apples grow.",
+   "wikipediaTitle": "Wenatchee, Washington"
+  },
+  {
+   "id": "lake-chelan",
+   "name": "Lake Chelan",
+   "category": "lake",
+   "coordinate": {
+    "latitude": 48.0,
+    "longitude": -120.35
+   },
+   "radiusMeters": 20000,
+   "salience": 0.6,
+   "summary": "A glacial trough lake 80 km long and only 2 km wide, the third deepest in the United States at 453 m.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "A skinny lake carved out by a glacier, super deep.",
+   "wikipediaTitle": "Lake Chelan"
+  },
+  {
+   "id": "spokane",
+   "name": "Spokane",
+   "category": "city",
+   "coordinate": {
+    "latitude": 47.659,
+    "longitude": -117.426
+   },
+   "radiusMeters": 10000,
+   "salience": 0.4,
+   "summary": "The largest city between Seattle and Minneapolis, built around the falls of the Spokane River.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "wikipediaTitle": "Spokane, Washington"
+  },
+  {
+   "id": "coeur-dalene",
+   "name": "Lake Coeur d'Alene",
+   "category": "lake",
+   "coordinate": {
+    "latitude": 47.6,
+    "longitude": -116.8
+   },
+   "radiusMeters": 15000,
+   "salience": 0.5,
+   "summary": "A 40 km glacial lake in the Idaho panhandle, the end point of ice-age floodwaters that backed up from the Missoula floods.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "wikipediaTitle": "Lake Coeur d'Alene"
+  },
+  {
+   "id": "hells-canyon",
+   "name": "Hells Canyon",
+   "category": "canyon",
+   "coordinate": {
+    "latitude": 45.4,
+    "longitude": -116.7
+   },
+   "radiusMeters": 30000,
+   "salience": 0.8,
+   "summary": "The deepest river gorge in North America, 2,400 m from rim to river where the Snake River separates Oregon and Idaho, deeper than the Grand Canyon.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "A canyon even deeper than the Grand Canyon.",
+   "spottingTip": "A dark, steep-walled slot with the Snake River at the bottom, right on the Oregon-Idaho line.",
+   "wikipediaTitle": "Hells Canyon"
+  },
+  {
+   "id": "wallowa",
+   "name": "Wallowa Mountains",
+   "category": "mountain",
+   "coordinate": {
+    "latitude": 45.2,
+    "longitude": -117.3
+   },
+   "radiusMeters": 25000,
+   "salience": 0.5,
+   "summary": "Granite peaks nicknamed the Alps of Oregon, with glacial lakes at their feet.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "elevationMeters": 2999,
+   "wikipediaTitle": "Wallowa Mountains"
+  },
+  {
+   "id": "snake-plain-pivots",
+   "name": "Snake River Plain irrigation",
+   "category": "irrigation",
+   "coordinate": {
+    "latitude": 42.9,
+    "longitude": -114.6
+   },
+   "radiusMeters": 60000,
+   "salience": 0.75,
+   "summary": "Thousands of center-pivot irrigation circles on the volcanic plain of southern Idaho, watered from the Snake River and the aquifer beneath the lava. A sprinkler arm up to 400 m long rotates around a central well once every day or two, which is why the fields are round.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "Those green circles are giant fields watered by a sprinkler that spins around like a clock hand.",
+   "spottingTip": "Green circles on brown lava are unmistakable. Half-circles mark where the arm is blocked by a road.",
+   "wikipediaTitle": "Center pivot irrigation"
+  },
+  {
+   "id": "shoshone-falls",
+   "name": "Shoshone Falls",
+   "category": "river",
+   "coordinate": {
+    "latitude": 42.595,
+    "longitude": -114.401
+   },
+   "radiusMeters": 2000,
+   "salience": 0.5,
+   "summary": "A 65 m waterfall on the Snake River, higher than Niagara, at the bottom of a deep basalt canyon.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "wikipediaTitle": "Shoshone Falls"
+  },
+  {
+   "id": "craters-moon",
+   "name": "Craters of the Moon",
+   "category": "volcano",
+   "coordinate": {
+    "latitude": 43.42,
+    "longitude": -113.52
+   },
+   "radiusMeters": 25000,
+   "salience": 0.85,
+   "summary": "A black lava field of 1,600 square kilometres from eruptions as recent as 2,000 years ago along the Great Rift. Astronauts trained here for the Moon landings.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "A field of black lava so strange that astronauts practised here before going to the Moon.",
+   "spottingTip": "A large black stain on the pale plain north of the irrigation circles.",
+   "wikipediaTitle": "Craters of the Moon National Monument and Preserve"
+  },
+  {
+   "id": "sawtooth",
+   "name": "Sawtooth Range",
+   "category": "mountain",
+   "coordinate": {
+    "latitude": 44.1,
+    "longitude": -114.9
+   },
+   "radiusMeters": 30000,
+   "salience": 0.6,
+   "summary": "Jagged granite peaks of central Idaho, part of the largest wilderness area in the lower 48 states.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "Pointy mountains like the teeth of a saw.",
+   "elevationMeters": 3277,
+   "wikipediaTitle": "Sawtooth Range (Idaho)"
+  },
+  {
+   "id": "boise",
+   "name": "Boise",
+   "category": "city",
+   "coordinate": {
+    "latitude": 43.615,
+    "longitude": -116.203
+   },
+   "radiusMeters": 10000,
+   "salience": 0.4,
+   "summary": "Idaho's capital, strung along the Boise River at the edge of the high desert.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "wikipediaTitle": "Boise, Idaho"
+  },
+  {
+   "id": "yellowstone",
+   "name": "Yellowstone",
+   "category": "volcano",
+   "coordinate": {
+    "latitude": 44.43,
+    "longitude": -110.59
+   },
+   "radiusMeters": 50000,
+   "salience": 1.0,
+   "summary": "The world's first national park sits on a supervolcano caldera 55 by 72 km across. Half the world's geysers are here. Yellowstone Lake fills part of the caldera; steam from the geyser basins is sometimes visible from cruise altitude on cold mornings.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "A giant sleeping volcano with hot springs and geysers that shoot boiling water into the air.",
+   "spottingTip": "Look for a large lake at high elevation ringed by forest, with pale, treeless geyser basins to its west.",
+   "elevationMeters": 2357,
+   "wikipediaTitle": "Yellowstone National Park"
+  },
+  {
+   "id": "grand-teton",
+   "name": "Grand Teton and Jackson Hole",
+   "category": "mountain",
+   "coordinate": {
+    "latitude": 43.741,
+    "longitude": -110.802
+   },
+   "radiusMeters": 20000,
+   "salience": 0.95,
+   "summary": "The Tetons rise 2,100 m straight out of the valley floor with no foothills, along a fault that is still active. Jackson Lake lies at their feet.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "Mountains that shoot straight up out of flat ground like a wall.",
+   "spottingTip": "A sharp wall of grey peaks with a long lake directly at its base.",
+   "elevationMeters": 4199,
+   "wikipediaTitle": "Grand Teton"
+  },
+  {
+   "id": "wind-river",
+   "name": "Wind River Range",
+   "category": "glacier",
+   "coordinate": {
+    "latitude": 43.0,
+    "longitude": -109.6
+   },
+   "radiusMeters": 40000,
+   "salience": 0.6,
+   "summary": "Wyoming's highest range, holding the largest glaciers in the US Rockies, and the Continental Divide along its crest.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "elevationMeters": 4209,
+   "wikipediaTitle": "Wind River Range"
+  },
+  {
+   "id": "great-salt-lake",
+   "name": "Great Salt Lake",
+   "category": "lake",
+   "coordinate": {
+    "latitude": 41.1,
+    "longitude": -112.5
+   },
+   "radiusMeters": 50000,
+   "salience": 0.9,
+   "summary": "The largest saltwater lake in the Western Hemisphere, a remnant of ice-age Lake Bonneville. A railroad causeway splits it: the north arm, cut off from fresh water, is far saltier and often pink or red from salt-loving microbes.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "A lake saltier than the ocean. One half is pink!",
+   "spottingTip": "Look for the pink or rust-coloured north half separated from the greener south half by a dead-straight line, the railroad causeway.",
+   "elevationMeters": 1280,
+   "wikipediaTitle": "Great Salt Lake"
+  },
+  {
+   "id": "bonneville",
+   "name": "Bonneville Salt Flats",
+   "category": "saltFlat",
+   "coordinate": {
+    "latitude": 40.75,
+    "longitude": -113.9
+   },
+   "radiusMeters": 20000,
+   "salience": 0.8,
+   "summary": "A dazzling white salt crust where land-speed records have been set since 1914. The salt is what is left of Lake Bonneville, which was 300 m deep here 15,000 years ago.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "A flat white desert made of salt where cars race at 600 miles an hour.",
+   "spottingTip": "A brilliant white patch west of the Great Salt Lake, brighter than the clouds.",
+   "elevationMeters": 1286,
+   "wikipediaTitle": "Bonneville Salt Flats"
+  },
+  {
+   "id": "bingham-canyon",
+   "name": "Bingham Canyon Mine",
+   "category": "mine",
+   "coordinate": {
+    "latitude": 40.523,
+    "longitude": -112.151
+   },
+   "radiusMeters": 3000,
+   "salience": 0.85,
+   "summary": "The largest human-made excavation on Earth: an open-pit copper mine 1.2 km deep and 4 km across, in production since 1906.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "The biggest hole people have ever dug, so big you can see it from space.",
+   "spottingTip": "A stepped bowl cut into the mountains south-west of Salt Lake City, with terraces like a stadium.",
+   "wikipediaTitle": "Bingham Canyon Mine"
+  },
+  {
+   "id": "slc",
+   "name": "Salt Lake City",
+   "category": "city",
+   "coordinate": {
+    "latitude": 40.761,
+    "longitude": -111.891
+   },
+   "radiusMeters": 12000,
+   "salience": 0.6,
+   "summary": "Laid out in 1847 on a grid of 10-acre blocks with streets 40 m wide, which still shows from the air.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "wikipediaTitle": "Salt Lake City"
+  },
+  {
+   "id": "uintas",
+   "name": "Uinta Mountains",
+   "category": "mountain",
+   "coordinate": {
+    "latitude": 40.75,
+    "longitude": -110.5
+   },
+   "radiusMeters": 40000,
+   "salience": 0.5,
+   "summary": "Unusual among Rocky Mountain ranges for running east to west. Utah's highest peaks, with hundreds of glacial lakes.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "elevationMeters": 4123,
+   "wikipediaTitle": "Uinta Mountains"
+  },
+  {
+   "id": "flaming-gorge",
+   "name": "Flaming Gorge Reservoir",
+   "category": "reservoirDam",
+   "coordinate": {
+    "latitude": 41.0,
+    "longitude": -109.5
+   },
+   "radiusMeters": 20000,
+   "salience": 0.6,
+   "summary": "A 146 km reservoir on the Green River behind a 150 m dam, named by John Wesley Powell in 1869 for its red cliffs.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "wikipediaTitle": "Flaming Gorge Reservoir"
+  },
+  {
+   "id": "dinosaur-nm",
+   "name": "Dinosaur National Monument",
+   "category": "historicSite",
+   "coordinate": {
+    "latitude": 40.5,
+    "longitude": -108.95
+   },
+   "radiusMeters": 15000,
+   "salience": 0.5,
+   "summary": "Canyons of the Green and Yampa rivers through upturned rock layers, famous for a quarry wall of Jurassic dinosaur bones.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "Dinosaur bones are stuck in the rocks down there.",
+   "wikipediaTitle": "Dinosaur National Monument"
+  },
+  {
+   "id": "rmnp",
+   "name": "Rocky Mountain National Park and Longs Peak",
+   "category": "mountain",
+   "coordinate": {
+    "latitude": 40.255,
+    "longitude": -105.615
+   },
+   "radiusMeters": 20000,
+   "salience": 0.85,
+   "summary": "Longs Peak at 4,346 m anchors the park. Trail Ridge Road climbs above 3,700 m. The Continental Divide runs through the park: water on one side goes to the Pacific, on the other to the Atlantic.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "Rain that falls on one side of these mountains ends up in the Pacific, on the other side in the Atlantic.",
+   "elevationMeters": 4346,
+   "wikipediaTitle": "Rocky Mountain National Park"
+  },
+  {
+   "id": "denver",
+   "name": "Denver",
+   "category": "city",
+   "coordinate": {
+    "latitude": 39.739,
+    "longitude": -104.99
+   },
+   "radiusMeters": 15000,
+   "salience": 0.7,
+   "summary": "The Mile High City sits where the Great Plains meet the Rocky Mountain Front. From the east, the mountains appear as a wall behind the city.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "elevationMeters": 1609,
+   "wikipediaTitle": "Denver"
+  },
+  {
+   "id": "dia",
+   "name": "Denver International Airport",
+   "category": "airport",
+   "coordinate": {
+    "latitude": 39.856,
+    "longitude": -104.673
+   },
+   "radiusMeters": 6000,
+   "salience": 0.5,
+   "summary": "The largest airport in the United States by area, bigger than Manhattan, with its tent-like white roof meant to echo the peaks.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "An airport bigger than the whole island of Manhattan, with a roof like a row of tents.",
+   "elevationMeters": 1655,
+   "wikipediaTitle": "Denver International Airport"
+  },
+  {
+   "id": "pikes-peak",
+   "name": "Pikes Peak",
+   "category": "mountain",
+   "coordinate": {
+    "latitude": 38.841,
+    "longitude": -105.044
+   },
+   "radiusMeters": 8000,
+   "salience": 0.7,
+   "summary": "A 4,302 m peak that inspired the song America the Beautiful. A cog railway and a road go to the top.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "elevationMeters": 4302,
+   "wikipediaTitle": "Pikes Peak"
+  },
+  {
+   "id": "great-sand-dunes",
+   "name": "Great Sand Dunes",
+   "category": "desert",
+   "coordinate": {
+    "latitude": 37.75,
+    "longitude": -105.52
+   },
+   "radiusMeters": 10000,
+   "salience": 0.8,
+   "summary": "The tallest dunes in North America, up to 230 m, piled against the Sangre de Cristo Mountains by winds crossing the San Luis Valley.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "Giant sand dunes right next to snowy mountains.",
+   "spottingTip": "A pale tan smudge against the foot of a mountain range, on the east side of a wide flat valley.",
+   "elevationMeters": 2500,
+   "wikipediaTitle": "Great Sand Dunes National Park and Preserve"
+  },
+  {
+   "id": "san-luis-pivots",
+   "name": "San Luis Valley irrigation",
+   "category": "irrigation",
+   "coordinate": {
+    "latitude": 37.6,
+    "longitude": -106.0
+   },
+   "radiusMeters": 40000,
+   "salience": 0.6,
+   "summary": "Center-pivot circles growing potatoes and barley at 2,300 m, one of the highest farming valleys in the world.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "elevationMeters": 2300,
+   "wikipediaTitle": "San Luis Valley"
+  },
+  {
+   "id": "san-juans",
+   "name": "San Juan Mountains",
+   "category": "mountain",
+   "coordinate": {
+    "latitude": 37.7,
+    "longitude": -107.7
+   },
+   "radiusMeters": 40000,
+   "salience": 0.6,
+   "summary": "A volcanic range with Colorado's greatest concentration of peaks over 4,000 m and the headwaters of the Rio Grande.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "elevationMeters": 4365,
+   "wikipediaTitle": "San Juan Mountains"
+  },
+  {
+   "id": "grand-canyon",
+   "name": "Grand Canyon",
+   "category": "canyon",
+   "coordinate": {
+    "latitude": 36.1,
+    "longitude": -112.1
+   },
+   "radiusMeters": 60000,
+   "salience": 1.0,
+   "summary": "A 446 km gorge cut by the Colorado River through nearly two billion years of rock, up to 29 km wide and 1,857 m deep. The layered walls are a textbook of geological time.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "The biggest canyon on Earth, so deep the river at the bottom looks like a thread.",
+   "spottingTip": "A vast dark gash across the plateau; the North Rim is forested, the South Rim drier.",
+   "wikipediaTitle": "Grand Canyon"
+  },
+  {
+   "id": "lake-powell",
+   "name": "Lake Powell and Glen Canyon Dam",
+   "category": "reservoirDam",
+   "coordinate": {
+    "latitude": 37.0,
+    "longitude": -111.5
+   },
+   "radiusMeters": 60000,
+   "salience": 0.9,
+   "summary": "A 300 km reservoir with 3,000 km of shoreline flooding the side canyons of the Colorado. Its white 'bathtub ring' shows how far the water has fallen during drought.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "A lake with so many twisty arms it looks like a dragon.",
+   "spottingTip": "Bright blue water in branching red-rock canyons; a pale band along the shore marks the old water level.",
+   "elevationMeters": 1128,
+   "wikipediaTitle": "Lake Powell"
+  },
+  {
+   "id": "monument-valley",
+   "name": "Monument Valley",
+   "category": "desert",
+   "coordinate": {
+    "latitude": 36.98,
+    "longitude": -110.1
+   },
+   "radiusMeters": 15000,
+   "salience": 0.8,
+   "summary": "Sandstone buttes up to 300 m tall on the Navajo Nation, the backdrop of countless Western films.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "Giant red rock towers in the desert, like castles.",
+   "elevationMeters": 1700,
+   "wikipediaTitle": "Monument Valley"
+  },
+  {
+   "id": "shiprock",
+   "name": "Shiprock",
+   "category": "volcano",
+   "coordinate": {
+    "latitude": 36.688,
+    "longitude": -108.837
+   },
+   "radiusMeters": 2000,
+   "salience": 0.7,
+   "summary": "The eroded throat of a volcano, standing 480 m above the desert with dykes radiating from it like spokes. Sacred to the Navajo.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "The inside of an old volcano, sticking up like a ship's sails.",
+   "spottingTip": "A lone dark peak with thin dark lines (dykes) running out from it across the flat desert.",
+   "elevationMeters": 2188,
+   "wikipediaTitle": "Shiprock"
+  },
+  {
+   "id": "four-corners",
+   "name": "Four Corners",
+   "category": "border",
+   "coordinate": {
+    "latitude": 36.999,
+    "longitude": -109.045
+   },
+   "radiusMeters": 1000,
+   "salience": 0.6,
+   "summary": "The only point in the United States where four states meet: Arizona, Utah, Colorado and New Mexico.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "Four states touch at one single point here.",
+   "wikipediaTitle": "Four Corners Monument"
+  },
+  {
+   "id": "meteor-crater",
+   "name": "Meteor Crater",
+   "category": "crater",
+   "coordinate": {
+    "latitude": 35.027,
+    "longitude": -111.022
+   },
+   "radiusMeters": 1200,
+   "salience": 0.95,
+   "summary": "A 1.2 km wide, 170 m deep crater blasted out about 50,000 years ago by an iron meteorite around 50 m across. The best preserved impact crater on Earth.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "A space rock hit here 50,000 years ago and left a hole you could drop twenty football fields into.",
+   "spottingTip": "A neat round bowl with a raised rim on the flat plateau east of Flagstaff; small, so look carefully.",
+   "elevationMeters": 1740,
+   "wikipediaTitle": "Meteor Crater"
+  },
+  {
+   "id": "hoover-dam",
+   "name": "Hoover Dam and Lake Mead",
+   "category": "reservoirDam",
+   "coordinate": {
+    "latitude": 36.016,
+    "longitude": -114.737
+   },
+   "radiusMeters": 20000,
+   "salience": 0.9,
+   "summary": "A 221 m concrete arch dam completed in 1936, holding back Lake Mead, the largest reservoir in the United States when full. Its white high-water ring records two decades of drought.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "A dam so big it took five years and 21,000 people to build.",
+   "wikipediaTitle": "Hoover Dam"
+  },
+  {
+   "id": "las-vegas",
+   "name": "Las Vegas",
+   "category": "city",
+   "coordinate": {
+    "latitude": 36.17,
+    "longitude": -115.14
+   },
+   "radiusMeters": 15000,
+   "salience": 0.7,
+   "summary": "A city of 2.3 million in the Mojave Desert, with the Strip's casinos lined up along a single boulevard. At night it is one of the brightest spots on Earth.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "The brightest city on Earth at night.",
+   "wikipediaTitle": "Las Vegas"
+  },
+  {
+   "id": "death-valley",
+   "name": "Death Valley",
+   "category": "desert",
+   "coordinate": {
+    "latitude": 36.23,
+    "longitude": -116.77
+   },
+   "radiusMeters": 40000,
+   "salience": 0.9,
+   "summary": "Badwater Basin, 86 m below sea level, is the lowest point in North America, with Telescope Peak rising 3,400 m above it a few kilometres away. The hottest air temperature ever reliably recorded, 56.7 C, was measured here.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "The hottest, lowest, driest place in North America.",
+   "spottingTip": "A pale salt-floored valley with dark mountain walls; the white salt flat is Badwater.",
+   "elevationMeters": -86,
+   "wikipediaTitle": "Death Valley"
+  },
+  {
+   "id": "ivanpah",
+   "name": "Ivanpah Solar Power Facility",
+   "category": "solarFarm",
+   "coordinate": {
+    "latitude": 35.556,
+    "longitude": -115.47
+   },
+   "radiusMeters": 3000,
+   "salience": 0.7,
+   "summary": "Three 140 m towers surrounded by 173,500 mirrors that focus sunlight to make steam. The towers glow dazzlingly white when operating.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "Thousands of mirrors shine sunlight onto three towers to make electricity.",
+   "spottingTip": "Three blinding white points surrounded by circular fields of mirrors, beside Interstate 15 at the California-Nevada line.",
+   "wikipediaTitle": "Ivanpah Solar Power Facility"
+  },
+  {
+   "id": "mono-lake",
+   "name": "Mono Lake",
+   "category": "lake",
+   "coordinate": {
+    "latitude": 38.0,
+    "longitude": -119.01
+   },
+   "radiusMeters": 10000,
+   "salience": 0.7,
+   "summary": "A salty, alkaline lake at least 760,000 years old, with tufa towers exposed as Los Angeles diverted its feeder streams. Islands in the lake are young volcanoes.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "elevationMeters": 1946,
+   "wikipediaTitle": "Mono Lake"
+  },
+  {
+   "id": "yosemite",
+   "name": "Yosemite Valley",
+   "category": "glacier",
+   "coordinate": {
+    "latitude": 37.745,
+    "longitude": -119.593
+   },
+   "radiusMeters": 15000,
+   "salience": 0.9,
+   "summary": "A glacially carved valley with 1,000 m granite walls, Half Dome and El Capitan among them, in the Sierra Nevada.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "A valley carved by ice with cliffs a kilometre high.",
+   "elevationMeters": 1200,
+   "wikipediaTitle": "Yosemite Valley"
+  },
+  {
+   "id": "lake-tahoe",
+   "name": "Lake Tahoe",
+   "category": "lake",
+   "coordinate": {
+    "latitude": 39.09,
+    "longitude": -120.03
+   },
+   "radiusMeters": 15000,
+   "salience": 0.85,
+   "summary": "A 500 m deep, intensely blue lake in a fault basin at 1,897 m, the largest alpine lake in North America.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "A huge blue lake high up in the mountains, deep enough to cover a skyscraper.",
+   "elevationMeters": 1897,
+   "wikipediaTitle": "Lake Tahoe"
+  },
+  {
+   "id": "shasta",
+   "name": "Mount Shasta",
+   "category": "volcano",
+   "coordinate": {
+    "latitude": 41.409,
+    "longitude": -122.195
+   },
+   "radiusMeters": 8000,
+   "salience": 0.9,
+   "summary": "A 4,322 m volcano that stands alone, visible from 200 km. Its slopes hold a second cone, Shastina.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "A lonely giant volcano you can see from very far away.",
+   "elevationMeters": 4322,
+   "wikipediaTitle": "Mount Shasta"
+  },
+  {
+   "id": "lassen",
+   "name": "Lassen Peak",
+   "category": "volcano",
+   "coordinate": {
+    "latitude": 40.488,
+    "longitude": -121.505
+   },
+   "radiusMeters": 6000,
+   "salience": 0.6,
+   "summary": "The southernmost Cascade volcano, which erupted in 1914 to 1917, the last Cascade eruption before Mount St. Helens.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "elevationMeters": 3187,
+   "wikipediaTitle": "Lassen Peak"
+  },
+  {
+   "id": "sutter-buttes",
+   "name": "Sutter Buttes",
+   "category": "volcano",
+   "coordinate": {
+    "latitude": 39.22,
+    "longitude": -121.81
+   },
+   "radiusMeters": 6000,
+   "salience": 0.6,
+   "summary": "A ring of eroded volcanic peaks rising alone from the flat Central Valley, sometimes called the world's smallest mountain range.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "A tiny mountain range all by itself in the middle of flat farmland.",
+   "spottingTip": "A circular cluster of hills in the middle of the flat, rectangular fields north of Sacramento.",
+   "elevationMeters": 640,
+   "wikipediaTitle": "Sutter Buttes"
+  },
+  {
+   "id": "central-valley",
+   "name": "Central Valley farmland",
+   "category": "agriculture",
+   "coordinate": {
+    "latitude": 36.8,
+    "longitude": -120.0
+   },
+   "radiusMeters": 80000,
+   "salience": 0.6,
+   "summary": "A 700 km long valley growing a quarter of the food in the United States, in rectangular fields and orchards aligned to the survey grid.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "wikipediaTitle": "Central Valley (California)"
+  },
+  {
+   "id": "sf-salt-ponds",
+   "name": "San Francisco Bay salt ponds",
+   "category": "estuary",
+   "coordinate": {
+    "latitude": 37.5,
+    "longitude": -122.05
+   },
+   "radiusMeters": 10000,
+   "salience": 0.75,
+   "summary": "Evaporation ponds at the south end of the Bay coloured red, orange and green by salt-loving microbes and algae at different salinities. Many are now being restored to marsh.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "Ponds coloured red, orange and green by tiny living things that love salt.",
+   "spottingTip": "Look for a patchwork of unnaturally coloured rectangles along the shore at the south end of the Bay.",
+   "wikipediaTitle": "San Francisco Bay salt ponds"
+  },
+  {
+   "id": "golden-gate",
+   "name": "Golden Gate and San Francisco",
+   "category": "bridge",
+   "coordinate": {
+    "latitude": 37.82,
+    "longitude": -122.48
+   },
+   "radiusMeters": 8000,
+   "salience": 0.9,
+   "summary": "The 1937 bridge spans the only gap in the Coast Ranges where the Bay drains to the sea. Fog pours through the gap on summer afternoons.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "The famous orange bridge, often poking out above the fog.",
+   "wikipediaTitle": "Golden Gate Bridge"
+  },
+  {
+   "id": "altamont",
+   "name": "Altamont Pass wind farm",
+   "category": "windFarm",
+   "coordinate": {
+    "latitude": 37.73,
+    "longitude": -121.65
+   },
+   "radiusMeters": 8000,
+   "salience": 0.6,
+   "summary": "One of the earliest wind farms in the world, thousands of turbines since the 1980s on the hills east of San Francisco Bay.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "wikipediaTitle": "Altamont Pass Wind Farm"
+  },
+  {
+   "id": "tehachapi",
+   "name": "Tehachapi Pass wind farms",
+   "category": "windFarm",
+   "coordinate": {
+    "latitude": 35.07,
+    "longitude": -118.3
+   },
+   "radiusMeters": 10000,
+   "salience": 0.6,
+   "summary": "Among the largest wind-power areas in the world, where wind funnels through the pass between the Sierra Nevada and the Tehachapi Mountains.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "wikipediaTitle": "Tehachapi Pass wind farm"
+  },
+  {
+   "id": "salton-sea",
+   "name": "Salton Sea",
+   "category": "lake",
+   "coordinate": {
+    "latitude": 33.3,
+    "longitude": -115.8
+   },
+   "radiusMeters": 25000,
+   "salience": 0.8,
+   "summary": "A lake created by accident in 1905 when the Colorado River broke through an irrigation canal and flooded a desert basin below sea level for two years. It is now shrinking and growing saltier.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "A lake made by a mistake when a river escaped from a canal.",
+   "elevationMeters": -70,
+   "wikipediaTitle": "Salton Sea"
+  },
+  {
+   "id": "imperial-valley",
+   "name": "Imperial Valley",
+   "category": "irrigation",
+   "coordinate": {
+    "latitude": 32.9,
+    "longitude": -115.5
+   },
+   "radiusMeters": 30000,
+   "salience": 0.6,
+   "summary": "Desert turned to year-round farmland by Colorado River water; the straight line where green fields meet brown desert at the Mexican border is visible from orbit.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "spottingTip": "Look for the dead-straight edge between green fields and brown desert; that is the border with Mexico.",
+   "wikipediaTitle": "Imperial Valley"
+  },
+  {
+   "id": "white-sands",
+   "name": "White Sands",
+   "category": "desert",
+   "coordinate": {
+    "latitude": 32.78,
+    "longitude": -106.33
+   },
+   "radiusMeters": 20000,
+   "salience": 0.85,
+   "summary": "The largest gypsum dune field in the world, 700 square kilometres of white dunes that stay cool to the touch even in summer.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "A desert of pure white sand, like snow that never melts.",
+   "spottingTip": "A brilliant white patch in the Tularosa Basin; nothing else nearby is that white.",
+   "elevationMeters": 1200,
+   "wikipediaTitle": "White Sands National Park"
+  },
+  {
+   "id": "palo-duro",
+   "name": "Palo Duro Canyon",
+   "category": "canyon",
+   "coordinate": {
+    "latitude": 34.94,
+    "longitude": -101.66
+   },
+   "radiusMeters": 15000,
+   "salience": 0.6,
+   "summary": "The second largest canyon in the United States, 190 km long, cut into the flat Texas Panhandle by a fork of the Red River.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "wikipediaTitle": "Palo Duro Canyon"
+  },
+  {
+   "id": "permian",
+   "name": "Permian Basin oil field",
+   "category": "mine",
+   "coordinate": {
+    "latitude": 31.9,
+    "longitude": -102.4
+   },
+   "radiusMeters": 80000,
+   "salience": 0.6,
+   "summary": "The most productive oil field in the United States. From the air it is a grid of well pads and roads, with gas flares visible at night.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "spottingTip": "A fine grid of pale squares (well pads) connected by dirt roads over scrubland.",
+   "wikipediaTitle": "Permian Basin (North America)"
+  },
+  {
+   "id": "roscoe-wind",
+   "name": "Roscoe Wind Farm",
+   "category": "windFarm",
+   "coordinate": {
+    "latitude": 32.4,
+    "longitude": -100.5
+   },
+   "radiusMeters": 15000,
+   "salience": 0.5,
+   "summary": "Over 600 turbines across cotton fields, one of the largest onshore wind farms in the world when built in 2009.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "wikipediaTitle": "Roscoe Wind Farm"
+  },
+  {
+   "id": "garden-city-pivots",
+   "name": "High Plains irrigation, Garden City",
+   "category": "irrigation",
+   "coordinate": {
+    "latitude": 37.97,
+    "longitude": -100.87
+   },
+   "radiusMeters": 60000,
+   "salience": 0.7,
+   "summary": "Center-pivot circles drawing on the Ogallala Aquifer, which is being pumped far faster than it refills. Where the water is gone, circles fade back to dryland wheat.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "Hundreds of green circles fed by water pumped from deep underground.",
+   "wikipediaTitle": "Ogallala Aquifer"
+  },
+  {
+   "id": "sandhills",
+   "name": "Nebraska Sandhills",
+   "category": "desert",
+   "coordinate": {
+    "latitude": 42.0,
+    "longitude": -101.5
+   },
+   "radiusMeters": 80000,
+   "salience": 0.7,
+   "summary": "The largest dune field in the Western Hemisphere, 50,000 square kilometres of grass-covered dunes with thousands of small lakes between them.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "Huge sand dunes covered in grass, with little lakes in the gaps.",
+   "spottingTip": "Rippled grassy hills with countless small lakes, no fields and almost no roads.",
+   "wikipediaTitle": "Sandhills (Nebraska)"
+  },
+  {
+   "id": "badlands",
+   "name": "Badlands",
+   "category": "canyon",
+   "coordinate": {
+    "latitude": 43.85,
+    "longitude": -102.3
+   },
+   "radiusMeters": 30000,
+   "salience": 0.75,
+   "summary": "Sharply eroded buttes and pinnacles in banded sediments, rich in fossils of ancient mammals.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "Striped rocks carved by rain into spikes and towers.",
+   "wikipediaTitle": "Badlands National Park"
+  },
+  {
+   "id": "black-hills",
+   "name": "Black Hills and Mount Rushmore",
+   "category": "mountain",
+   "coordinate": {
+    "latitude": 43.88,
+    "longitude": -103.46
+   },
+   "radiusMeters": 30000,
+   "salience": 0.7,
+   "summary": "An isolated dome of granite rising from the plains; the Mount Rushmore carvings are too small to see from cruise altitude, but the dark forested dome is obvious.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "elevationMeters": 2207,
+   "wikipediaTitle": "Black Hills"
+  },
+  {
+   "id": "devils-tower",
+   "name": "Devils Tower",
+   "category": "volcano",
+   "coordinate": {
+    "latitude": 44.59,
+    "longitude": -104.715
+   },
+   "radiusMeters": 1500,
+   "salience": 0.75,
+   "summary": "A 264 m column of volcanic rock with vertical fluting, sacred to many Plains tribes and the first US national monument.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "A rock tower with grooves like a giant tree stump.",
+   "spottingTip": "Small, so look carefully: a stump-like grey tower north of the Black Hills.",
+   "elevationMeters": 1559,
+   "wikipediaTitle": "Devils Tower"
+  },
+  {
+   "id": "bakken",
+   "name": "Bakken oil field",
+   "category": "mine",
+   "coordinate": {
+    "latitude": 48.15,
+    "longitude": -103.6
+   },
+   "radiusMeters": 60000,
+   "salience": 0.5,
+   "summary": "Fracked oil wells across western North Dakota; gas flares make the empty prairie glow at night like a city.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "wikipediaTitle": "Bakken Formation"
+  },
+  {
+   "id": "st-louis",
+   "name": "Mississippi and Missouri confluence, St. Louis",
+   "category": "river",
+   "coordinate": {
+    "latitude": 38.81,
+    "longitude": -90.12
+   },
+   "radiusMeters": 15000,
+   "salience": 0.8,
+   "summary": "The muddy Missouri meets the clearer Mississippi just north of St. Louis, and the two colours run side by side for kilometres before mixing.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "Two giant rivers meet here, and you can see their two colours side by side.",
+   "wikipediaTitle": "Confluence of the Mississippi and Missouri Rivers"
+  },
+  {
+   "id": "chicago",
+   "name": "Chicago",
+   "category": "city",
+   "coordinate": {
+    "latitude": 41.878,
+    "longitude": -87.63
+   },
+   "radiusMeters": 20000,
+   "salience": 0.85,
+   "summary": "The third largest US city, laid out on a strict grid along Lake Michigan, with a skyline that stands at the water's edge.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "A huge city right on the edge of a lake so big it looks like the sea.",
+   "wikipediaTitle": "Chicago"
+  },
+  {
+   "id": "niagara",
+   "name": "Niagara Falls",
+   "category": "river",
+   "coordinate": {
+    "latitude": 43.08,
+    "longitude": -79.07
+   },
+   "radiusMeters": 3000,
+   "salience": 0.9,
+   "summary": "The Niagara River drops 51 m over the escarpment between Lake Erie and Lake Ontario; the mist plume is visible from the air.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "A waterfall so big you can see its mist cloud from a plane.",
+   "wikipediaTitle": "Niagara Falls"
+  },
+  {
+   "id": "manhattan",
+   "name": "Manhattan",
+   "category": "city",
+   "coordinate": {
+    "latitude": 40.78,
+    "longitude": -73.97
+   },
+   "radiusMeters": 8000,
+   "salience": 1.0,
+   "summary": "The island's street grid, laid out in 1811, runs from 14th Street to the north; Central Park is the green rectangle in the middle.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "The most famous island of skyscrapers in the world, with a green park in the middle.",
+   "wikipediaTitle": "Manhattan"
+  },
+  {
+   "id": "dc-mall",
+   "name": "Washington, National Mall",
+   "category": "historicSite",
+   "coordinate": {
+    "latitude": 38.889,
+    "longitude": -77.023
+   },
+   "radiusMeters": 5000,
+   "salience": 0.85,
+   "summary": "The 3 km axis from the Capitol to the Lincoln Memorial, with the Washington Monument at its centre, is clear from the air.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "wikipediaTitle": "National Mall"
+  },
+  {
+   "id": "chesapeake-bridge",
+   "name": "Chesapeake Bay Bridge",
+   "category": "bridge",
+   "coordinate": {
+    "latitude": 38.993,
+    "longitude": -76.38
+   },
+   "radiusMeters": 5000,
+   "salience": 0.6,
+   "summary": "Twin spans of 7 km across the largest estuary in the United States.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "wikipediaTitle": "Chesapeake Bay Bridge"
+  },
+  {
+   "id": "outer-banks",
+   "name": "Outer Banks",
+   "category": "coastline",
+   "coordinate": {
+    "latitude": 35.5,
+    "longitude": -75.5
+   },
+   "radiusMeters": 40000,
+   "salience": 0.8,
+   "summary": "A 320 km string of barrier islands, thin ribbons of sand protecting the sounds behind them, constantly reshaped by storms. The Wright brothers flew here in 1903.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "Long skinny islands of sand, where the first ever airplane flew.",
+   "wikipediaTitle": "Outer Banks"
+  },
+  {
+   "id": "okefenokee",
+   "name": "Okefenokee Swamp",
+   "category": "wetland",
+   "coordinate": {
+    "latitude": 30.7,
+    "longitude": -82.3
+   },
+   "radiusMeters": 30000,
+   "salience": 0.6,
+   "summary": "A 1,770 square kilometre blackwater swamp, the headwaters of the Suwannee and St. Marys rivers.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "wikipediaTitle": "Okefenokee Swamp"
+  },
+  {
+   "id": "everglades",
+   "name": "Everglades",
+   "category": "wetland",
+   "coordinate": {
+    "latitude": 25.7,
+    "longitude": -80.9
+   },
+   "radiusMeters": 60000,
+   "salience": 0.85,
+   "summary": "A 100 km wide river of grass flowing a few centimetres an hour from Lake Okeechobee to the sea, with tree islands aligned to the flow.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "A river so slow and wide it looks like a grassy sea.",
+   "wikipediaTitle": "Everglades"
+  },
+  {
+   "id": "canaveral",
+   "name": "Cape Canaveral",
+   "category": "historicSite",
+   "coordinate": {
+    "latitude": 28.6,
+    "longitude": -80.6
+   },
+   "radiusMeters": 15000,
+   "salience": 0.8,
+   "summary": "The launch site for every American crewed spaceflight; the pads and the giant Vehicle Assembly Building stand on the barrier island.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "Where rockets blast off to space!",
+   "wikipediaTitle": "Cape Canaveral"
+  },
+  {
+   "id": "miss-delta",
+   "name": "Mississippi River Delta",
+   "category": "riverForm",
+   "coordinate": {
+    "latitude": 29.2,
+    "longitude": -89.3
+   },
+   "radiusMeters": 50000,
+   "salience": 0.85,
+   "summary": "A bird's-foot delta pushing sediment into the Gulf of Mexico, now sinking and eroding as levees starve it of new mud.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "The river splits into fingers like a bird's foot where it reaches the sea.",
+   "wikipediaTitle": "Mississippi River Delta"
+  },
+  {
+   "id": "houston-ship",
+   "name": "Houston Ship Channel",
+   "category": "port",
+   "coordinate": {
+    "latitude": 29.73,
+    "longitude": -95.0
+   },
+   "radiusMeters": 15000,
+   "salience": 0.6,
+   "summary": "One of the busiest ports in the United States, lined with the largest petrochemical complex in the country.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "wikipediaTitle": "Houston Ship Channel"
+  },
+  {
+   "id": "glacier-np",
+   "name": "Glacier National Park",
+   "category": "glacier",
+   "coordinate": {
+    "latitude": 48.7,
+    "longitude": -113.8
+   },
+   "radiusMeters": 40000,
+   "salience": 0.85,
+   "summary": "Knife-edged ridges and U-shaped valleys carved by ice, with about two dozen small glaciers left of the 150 present in 1850.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "kidSummary": "Mountains carved by ice, with a few glaciers still hanging on.",
+   "elevationMeters": 3190,
+   "wikipediaTitle": "Glacier National Park (U.S.)"
+  },
+  {
+   "id": "flathead",
+   "name": "Flathead Lake",
+   "category": "lake",
+   "coordinate": {
+    "latitude": 47.9,
+    "longitude": -114.1
+   },
+   "radiusMeters": 20000,
+   "salience": 0.6,
+   "summary": "The largest natural freshwater lake west of the Mississippi, a remnant of glacial Lake Missoula.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "wikipediaTitle": "Flathead Lake"
+  },
+  {
+   "id": "pend-oreille",
+   "name": "Lake Pend Oreille",
+   "category": "lake",
+   "coordinate": {
+    "latitude": 48.1,
+    "longitude": -116.4
+   },
+   "radiusMeters": 20000,
+   "salience": 0.5,
+   "summary": "A deep glacial lake where the US Navy tests submarine designs because the water is so quiet.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "wikipediaTitle": "Lake Pend Oreille"
+  },
+  {
+   "id": "fort-peck",
+   "name": "Fort Peck Lake",
+   "category": "reservoirDam",
+   "coordinate": {
+    "latitude": 47.8,
+    "longitude": -106.5
+   },
+   "radiusMeters": 40000,
+   "salience": 0.5,
+   "summary": "A 215 km reservoir on the Missouri behind the largest hydraulically filled earth dam in the United States, built in the 1930s.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "wikipediaTitle": "Fort Peck Dam"
+  },
+  {
+   "id": "missoula",
+   "name": "Missoula",
+   "category": "city",
+   "coordinate": {
+    "latitude": 46.87,
+    "longitude": -114.0
+   },
+   "radiusMeters": 10000,
+   "salience": 0.4,
+   "summary": "Sits on the floor of glacial Lake Missoula; ancient shorelines are etched as horizontal lines on the surrounding hills.",
+   "attribution": "Earth from Above curated entry; coordinates approximate to about 5 km. Replace with pipeline output.",
+   "spottingTip": "Look for faint horizontal lines on the hillsides around the town: old lake shorelines.",
+   "wikipediaTitle": "Missoula, Montana"
+  }
+ ]
+}
