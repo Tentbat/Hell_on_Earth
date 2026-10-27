@@ -1,4 +1,4 @@
-# In-Flight Window Companion: Product Brief (pre-code)
+# Earth from Above: Product Brief (pre-code)
 
 Status: draft for discussion. No app code yet. This document captures the proposed
 scope, the technical realities that shape it, open questions, a feature brainstorm,
@@ -299,11 +299,99 @@ reusable work; the Android client is a second UI over the same bundles and APIs.
 
 ---
 
-## 8. Open questions
+## 8. Decisions so far
 
-See the accompanying message. The ones that change the build the most are: native versus
-cross-platform client, whether we run a backend, launch region, in-app camera versus
-import, and the monetisation shape.
+- Working title: Earth from Above.
+- Native Swift and SwiftUI client. Backend in Python (FastAPI) because the geodata
+  pipeline wants the Python geospatial toolchain anyway.
+- Backend: yes. It also hosts user-shared sighting photos (see 10.1).
+- Launch region: flights to, from, and within the United States, extended to North
+  America where the data allows (Canada and Mexico are mostly covered by the same open
+  datasets, so this is cheap).
+- Online explanations via the Claude API, offline via geometric lookup.
+- Monetisation: free tier, per-flight pass, annual subscription with family option.
+- Sign in with Apple for adults; child profiles under the parent, no child accounts.
+- Kid bands: Explorer (about 5 to 8, with a parent) and Navigator (about 9 to 13).
+- Airline Wi-Fi position feeds: nice to have, never a dependency.
+
+## 10. Additional features requested
+
+### 10.1 Shared sightings
+
+Users can post a photo of something they spotted, pinned to the route and the feature.
+Others on the same route later see "spotted here by 14 people". Requires: moderation
+queue (automated image screening plus report and block, which the App Store requires for
+user content), attribution choice, opt-out of location precision, and no posting from kid
+mode without the parent's toggle.
+
+### 10.2 Map view
+
+Live map with the aircraft position, the predicted and actual track, elapsed time since
+takeoff, estimated time remaining, altitude and ground speed, and upcoming features on
+each side. Offline map tiles for the corridor ship in the route bundle (vector tiles, so
+a transcontinental corridor stays in the tens of megabytes).
+
+### 10.3 Aircraft panel
+
+Type, variant, airline, registration (tail number), age, engines, seat layout for side
+determination, and a short "what is notable about this aircraft" entry. Registration and
+age come from the national aircraft registries, type and variant from the schedule and
+ADS-B data.
+
+### 10.4 How to spot things from the air
+
+Short illustrated guides: where to look relative to the horizon for a given distance,
+how altitude changes apparent size, why haze hides low contrast features, how to use
+shadows at low sun, how to tell a reservoir from a natural lake, a braided river from a
+meandering one, center-pivot circles from other field patterns, a wind farm from a solar
+farm, contrails and their age, where the terminator is at dusk. Written for adults with a
+simpler kid-mode variant.
+
+### 10.5 Reference content
+
+In-app encyclopedia, available offline:
+
+- Clouds: the ten main genera with photos taken from above, plus cloud streets,
+  lenticulars, anvils, pileus, fog layers, marine stratocumulus, and what each says
+  about the ride ahead.
+- Lightning and storms: what you see from above, safe distances aircraft keep,
+  sprites and other upper-atmosphere phenomena.
+- Lines on the land: state and national borders (and why some are visible from the air
+  through land-use changes), rivers and watersheds, the continental divides, time zone
+  boundaries, the Mason-Dixon line and other surveyed lines, the Public Land Survey grid
+  and why the Midwest looks like graph paper, section-line roads.
+- Named routes crossed: major rivers, interstates, rail lines, pipelines, canals.
+
+The app announces crossings as events: "crossing the Continental Divide in 4 minutes,"
+"entering Nevada," "Mississippi River on your right."
+
+## 11. Backend cost sketch
+
+Three cost buckets: hosting, third-party data, and model calls. Hosting is small at
+every scale we are likely to see in the first year. Model calls and flight-data APIs
+dominate and scale with paying usage, which is why they sit behind the paywall.
+
+Rough monthly figures, US dollars, as estimates to be confirmed against current pricing:
+
+| Stage | Hosting | Flight data APIs | Model calls | Photo storage and moderation | Total |
+| --- | --- | --- | --- | --- | --- |
+| Development and TestFlight | 20 to 60 | 0 to 50 | 10 to 40 | under 5 | 30 to 150 |
+| Launch, low thousands of users | 50 to 150 | 50 to 200 | 50 to 300 | 10 to 40 | 160 to 700 |
+| Tens of thousands of monthly users | 150 to 400 | 200 to 800 | 300 to 2000 | 50 to 200 | 700 to 3400 |
+
+Notes:
+
+- Hosting assumes a small managed Postgres with PostGIS, object storage for route
+  bundles and photos, a CDN in front of the bundles, and serverless or small-container
+  compute. Route bundles are built once per flight number and day and cached, so compute
+  stays flat.
+- Weather, satellite imagery, terrain, and all the feature databases are free government
+  or open data. The paid items are live ADS-B and schedules; free tiers exist for
+  development.
+- Model calls assume a few cents per photo explanation; usage is capped per free user and
+  unlimited for paid users, so revenue and cost move together.
+- Moderation assumes automated image screening per upload plus a small human review
+  queue; the human time is the real cost, not the API.
 
 ---
 
