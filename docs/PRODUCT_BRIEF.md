@@ -395,7 +395,7 @@ Notes:
 
 ---
 
-## 9. Suggested MVP (first TestFlight build)
+## 12. Suggested MVP (first TestFlight build)
 
 1. Flight entry, seat side, interest checklist.
 2. Route bundle download for US domestic flights (expand afterwards).
